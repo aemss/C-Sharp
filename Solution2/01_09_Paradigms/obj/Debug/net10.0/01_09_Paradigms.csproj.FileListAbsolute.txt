@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\bin\Debug\net10.0\01_09_Paradigms.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\bin\Debug\net10.0\01_09_Paradigms.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\bin\Debug\net10.0\01_09_Paradigms.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\bin\Debug\net10.0\01_09_Paradigms.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\bin\Debug\net10.0\01_09_Paradigms.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\refint\01_09_Paradigms.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\01_09_Paradigms.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_09_Paradigms\obj\Debug\net10.0\ref\01_09_Paradigms.dll

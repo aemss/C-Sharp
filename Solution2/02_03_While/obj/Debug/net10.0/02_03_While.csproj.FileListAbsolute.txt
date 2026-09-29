@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\bin\Debug\net10.0\02_03_While.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\bin\Debug\net10.0\02_03_While.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\bin\Debug\net10.0\02_03_While.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\bin\Debug\net10.0\02_03_While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\bin\Debug\net10.0\02_03_While.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\refint\02_03_While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\02_03_While.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_03_While\obj\Debug\net10.0\ref\02_03_While.dll

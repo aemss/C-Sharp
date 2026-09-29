@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\bin\Debug\net10.0\01_11_İf.Else.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\bin\Debug\net10.0\01_11_İf.Else.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\bin\Debug\net10.0\01_11_İf.Else.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\bin\Debug\net10.0\01_11_İf.Else.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\bin\Debug\net10.0\01_11_İf.Else.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\refint\01_11_İf.Else.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\01_11_İf.Else.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\01_11_İf.Else\obj\Debug\net10.0\ref\01_11_İf.Else.dll
