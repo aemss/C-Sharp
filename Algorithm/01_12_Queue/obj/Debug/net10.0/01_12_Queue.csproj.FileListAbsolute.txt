@@ -1,0 +1,15 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\bin\Debug\net10.0\01_12_Queue.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\bin\Debug\net10.0\01_12_Queue.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\bin\Debug\net10.0\01_12_Queue.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\bin\Debug\net10.0\01_12_Queue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\bin\Debug\net10.0\01_12_Queue.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\refint\01_12_Queue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Queue.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\ref\01_12_Queue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_12_Queue\obj\Debug\net10.0\01_12_Qu.69AA2F93.Up2Date
