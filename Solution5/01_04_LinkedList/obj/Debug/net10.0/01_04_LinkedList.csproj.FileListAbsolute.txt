@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\bin\Debug\net10.0\01_04_LinkedList.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\bin\Debug\net10.0\01_04_LinkedList.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\bin\Debug\net10.0\01_04_LinkedList.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\bin\Debug\net10.0\01_04_LinkedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\bin\Debug\net10.0\01_04_LinkedList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\refint\01_04_LinkedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\01_04_LinkedList.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_04_LinkedList\obj\Debug\net10.0\ref\01_04_LinkedList.dll

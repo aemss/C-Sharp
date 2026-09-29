@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Solution5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466EEFF6-C4F2-4D10-BC04-FEE23210CA57}|02_01_TryCatch\\02_01_TryCatch.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c# new project\\solution5\\02_01_trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466EEFF6-C4F2-4D10-BC04-FEE23210CA57}|02_01_TryCatch\\02_01_TryCatch.csproj|solutionrelative:02_01_trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Solution5\\02_01_TryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "02_01_TryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Solution5\\02_01_TryCatch\\Program.cs*",
+              "RelativeToolTip": "02_01_TryCatch\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:07:01.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

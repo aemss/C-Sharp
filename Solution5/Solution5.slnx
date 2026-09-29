@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01_01_ArrayList/01_01_ArrayList.csproj" />
+  <Project Path="01_02_List/01_02_List.csproj" />
+  <Project Path="01_03_Generic/01_03_Generic.csproj" />
+  <Project Path="01_04_LinkedList/01_04_LinkedList.csproj" Id="95af8c8c-7e35-4db3-a366-de0a6dd5dff8" />
+  <Project Path="01_05_Stack/01_05_Stack.csproj" Id="451bf467-c4e2-449e-b6a2-7254bf2e0456" />
+  <Project Path="01_06_StackExample/01_06_StackExample.csproj" Id="f23f71e8-aeb0-4359-80be-73037880f8f6" />
+  <Project Path="01_07_Queue/01_07_Queue.csproj" Id="312c7dba-de81-4436-933b-1c4f2671c351" />
+  <Project Path="01_08_Dictionary/01_08_Dictionary.csproj" Id="e09abfe3-a8a6-431e-9f72-41676a3edc7a" />
+  <Project Path="01_09_SortedList/01_09_SortedList.csproj" Id="93f3fcb7-8718-4beb-8fcc-481843ebba67" />
+  <Project Path="01_10_ObservableCollection/01_10_ObservableCollection.csproj" Id="d7d0f5dd-3ecd-4003-b2f5-9e20f2e3db67" />
+  <Project Path="01_11_HashSet/01_11_HashSet.csproj" Id="efeebdba-61ee-4f1a-aa6f-3da47d4b26db" />
+  <Project Path="02_01_TryCatch/02_01_TryCatch.csproj" Id="466eeff6-c4f2-4d10-bc04-fee23210ca57" />
+  <Project Path="02_02_Custom_Exception/02_02_Custom_Exception.csproj" Id="df436469-bec1-4aba-84f9-04f921a60153" />
+  <Project Path="02_03_CustomExceptionManage/02_03_CustomExceptionManage.csproj" Id="a0615523-5293-493e-924e-17e9329dd18f" />
+  <Project Path="Errors/Errors.csproj" Id="409c7ea9-6a49-4406-bcb1-3e63976628b6" />
+</Solution>
