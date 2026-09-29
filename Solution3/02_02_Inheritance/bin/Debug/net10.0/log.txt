@@ -1,0 +1,2 @@
+Başlangıç log kaydı 19.08.2026 19:44:09: Kullanıcı Sisteme Giriş Yaptı.
+19.08.2026 19:44:09: Veri Güncelleme İşlemi Gerçekleştirildi.

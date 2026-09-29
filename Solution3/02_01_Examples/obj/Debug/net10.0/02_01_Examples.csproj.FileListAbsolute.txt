@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\bin\Debug\net10.0\02_01_Examples.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\bin\Debug\net10.0\02_01_Examples.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\bin\Debug\net10.0\02_01_Examples.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\bin\Debug\net10.0\02_01_Examples.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\bin\Debug\net10.0\02_01_Examples.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\refint\02_01_Examples.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\02_01_Examples.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_01_Examples\obj\Debug\net10.0\ref\02_01_Examples.dll

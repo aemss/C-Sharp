@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\bin\Debug\net10.0\02_04_HierarchicalInheritance.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\bin\Debug\net10.0\02_04_HierarchicalInheritance.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\bin\Debug\net10.0\02_04_HierarchicalInheritance.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\bin\Debug\net10.0\02_04_HierarchicalInheritance.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\bin\Debug\net10.0\02_04_HierarchicalInheritance.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\refint\02_04_HierarchicalInheritance.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\02_04_HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\02_04_HierarchicalInheritance\obj\Debug\net10.0\ref\02_04_HierarchicalInheritance.dll
