@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\Variables\obj\Debug\net10.0\ref\Variables.dll
