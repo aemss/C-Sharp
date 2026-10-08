@@ -1,0 +1,15 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\bin\Debug\net10.0\01_04_Class.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\bin\Debug\net10.0\01_04_Class.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\bin\Debug\net10.0\01_04_Class.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\bin\Debug\net10.0\01_04_Class.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\bin\Debug\net10.0\01_04_Class.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\refint\01_04_Class.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Class.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\ref\01_04_Class.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_04_Class\obj\Debug\net10.0\01_04_Cl.5E7FF2C0.Up2Date

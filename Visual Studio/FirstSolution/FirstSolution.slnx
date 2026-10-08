@@ -1,0 +1,21 @@
+<Solution>
+  <Project Path="02_03Null_and_Nullable/02_04_Null_and_Nullable.csproj" Id="7bd5e775-2bbb-4371-9f2d-d77750da00d3" />
+  <Project Path="02_04_ComparisonOpt/02_06_ComparisonOperators.csproj" Id="0a4c6fbf-5375-4b72-805c-751dcdec75ab" />
+  <Project Path="02_07_LogicalOperators/02_07_LogicalOperators.csproj" Id="853c2577-2b7c-41b9-b35a-deec5b2f630b" />
+  <Project Path="02_08_Homework/02_08_Homework.csproj" Id="f6dbd31b-4cf0-4c8e-b9ef-22a4fc174844" />
+  <Project Path="02_09_Example/02_09_Example.csproj" Id="d4df0c6c-b8cc-40cf-b673-6943d57b33a9" />
+  <Project Path="02_10_Operators/02_10_Operators.csproj" Id="1fb0b29e-f5f4-4811-a3ee-b08107217bf0" />
+  <Project Path="02_11_Random/02_11_Random.csproj" Id="896e0117-b655-4e78-bfc4-821188bc0c2e" />
+  <Project Path="03_01_BuiltInType/03_01_BuiltInType.csproj" Id="773d035a-0d85-4c25-8c6c-1afe7767bbac" />
+  <Project Path="03_02_SignedAndUnsigned/03_02_SignedAndUnsigned.csproj" Id="4b72fc79-6e4d-46d8-99d7-deadc5a41e59" />
+  <Project Path="03_03_ValuAndRefType/03_03_ValuAndRefType.csproj" Id="3ba3988c-6f29-49fe-9f4b-3d463be2cf57" />
+  <Project Path="03_04_BoxingAndUnboxing/03_04_BoxingAndUnboxing.csproj" Id="6c631c0c-2c98-4dd3-98bb-65995aef5864" />
+  <Project Path="04_02_Foreach/04_02_Foreach.csproj" Id="ed600403-1ff1-41bc-8ded-49447eef0a10" />
+  <Project Path="04_03_WhileLoop/04_03_WhileLoop.csproj" Id="38d94ed8-6b19-4cb3-ad40-2d771d023735" />
+  <Project Path="04_04_while_loop/04_04_DoWhileLoop.csproj" Id="59c4f762-2b79-405e-939b-f916c9023c04" />
+  <Project Path="05_01_Arrays/04_01_Arrays.csproj" Id="1b09b6de-64f1-4dfc-9df3-cf92c012b13e" />
+  <Project Path="05_06tudentApp/04_05StudentApp.csproj" Id="66672824-b8c0-4820-bd70-81d056bc08d2" />
+  <Project Path="C#_Entering/02_01C#_Entering.csproj" />
+  <Project Path="IO/02_03_IO.csproj" Id="da568f34-71cc-4ca0-91e4-a9e340ef918d" />
+  <Project Path="Variables/02_02_Variables.csproj" Id="23d9ff1e-876f-4b61-b765-b4aa8b0112fc" />
+</Solution>

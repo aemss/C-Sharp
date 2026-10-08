@@ -1,0 +1,15 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\bin\Debug\net10.0\01_03_Struct2.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\bin\Debug\net10.0\01_03_Struct2.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\bin\Debug\net10.0\01_03_Struct2.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\bin\Debug\net10.0\01_03_Struct2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\bin\Debug\net10.0\01_03_Struct2.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\refint\01_03_Struct2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_Struct2.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\ref\01_03_Struct2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_03_Struct2\obj\Debug\net10.0\01_03_St.B3EE53A2.Up2Date

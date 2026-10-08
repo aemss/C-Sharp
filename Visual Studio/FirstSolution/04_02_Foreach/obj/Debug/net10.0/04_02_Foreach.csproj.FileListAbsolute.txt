@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\bin\Debug\net10.0\04_02_Foreach.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\bin\Debug\net10.0\04_02_Foreach.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\bin\Debug\net10.0\04_02_Foreach.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\bin\Debug\net10.0\04_02_Foreach.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\bin\Debug\net10.0\04_02_Foreach.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\refint\04_02_Foreach.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\04_02_Foreach.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\04_02_Foreach\obj\Debug\net10.0\ref\04_02_Foreach.dll

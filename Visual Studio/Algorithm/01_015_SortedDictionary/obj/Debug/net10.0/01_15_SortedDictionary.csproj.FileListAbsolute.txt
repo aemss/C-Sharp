@@ -1,0 +1,15 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\bin\Debug\net10.0\01_15_SortedDictionary.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\bin\Debug\net10.0\01_15_SortedDictionary.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\bin\Debug\net10.0\01_15_SortedDictionary.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\bin\Debug\net10.0\01_15_SortedDictionary.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\bin\Debug\net10.0\01_15_SortedDictionary.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\refint\01_15_SortedDictionary.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_SortedDictionary.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\ref\01_15_SortedDictionary.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_015_SortedDictionary\obj\Debug\net10.0\01_15_So.1643650B.Up2Date

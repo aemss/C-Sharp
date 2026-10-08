@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\bin\Debug\net10.0\01_07_Error_Management.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\bin\Debug\net10.0\01_07_Error_Management.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\bin\Debug\net10.0\01_07_Error_Management.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\bin\Debug\net10.0\01_07_Error_Management.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\bin\Debug\net10.0\01_07_Error_Management.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\refint\01_07_Error_Management.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\01_07_Error_Management.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Error_Management\obj\Debug\net10.0\ref\01_07_Error_Management.dll

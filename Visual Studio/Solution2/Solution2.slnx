@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="01_01_Strings/01_01_Strings.csproj" />
+  <Project Path="01_02_Ascii/01_02_Ascii.csproj" />
+  <Project Path="01_03_Concat/01_03_Concat.csproj" />
+  <Project Path="01_04_Escape/01_04_Escape.csproj" />
+  <Project Path="01_05_Dependiences/01_05_Dependiences.csproj" />
+  <Project Path="01_07_Format/01_07_Format.csproj" />
+  <Project Path="01_07_Sorting/01_06_Sorting.csproj" />
+  <Project Path="01_08_StringBuilder/01_08_StringBuilder.csproj" />
+  <Project Path="01_09_Paradigms/01_09_Paradigms.csproj" Id="f577698a-6334-4981-995a-07397f7bbb2f" />
+  <Project Path="01_10_Arrays/01_10_Arrays.csproj" Id="07de06ab-2907-4420-8069-2fb8c83d7999" />
+  <Project Path="01_11_İf.Else/01_11_İf&amp;&amp;Else.csproj" Id="8d8300d8-7244-445b-a376-d37dc1c259f4" />
+  <Project Path="01_12_Switch/01_12_Switch&amp;&amp;Ternary.csproj" Id="6d8920f5-c655-4308-986f-76337a497925" />
+  <Project Path="02_01_ArrayExample/02_01_ArrayExample.csproj" Id="b1a9dd73-b35d-41b7-ad83-af6451210132" />
+  <Project Path="02_02_For/02_02_For.csproj" Id="921fa753-1546-4313-8481-5f3bf3950974" />
+  <Project Path="02_03_While/02_03_While.csproj" Id="38e21cee-07cd-445a-ad77-a9404c4b3d64" />
+  <Project Path="02_04_Break&amp;&amp;Continue/02_04_Break&amp;&amp;Continue.csproj" Id="1090e557-43ba-4329-ab21-c6910d80c4ad" />
+  <Project Path="02_05_Do-While/02_05_Do-While.csproj" Id="e7a93cff-9d15-429b-a509-5eecbad48c1d" />
+  <Project Path="02_06_Foreach/02_06_Foreach.csproj" Id="511fe12b-fff2-4d65-9251-5cf3a9b83be4" />
+</Solution>
