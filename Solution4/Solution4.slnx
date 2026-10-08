@@ -1,9 +1,0 @@
-<Solution>
-  <Project Path="01_02_AccesModifiers/01_01_AccesModifiers.csproj" />
-  <Project Path="01_02_ArrayList2/01_02_ArrayList2.csproj" Id="afe88ca3-e9c6-4fac-b4d0-4b2cac69a81a" />
-  <Project Path="01_03_ArrayListWithOOP/01_03_ArrayListWithOOP.csproj" Id="eadbe3b9-5f01-422b-abda-95cab8efaac9" />
-  <Project Path="01_04_Ctor/01_04_Ctor.csproj" Id="f9960546-b42e-43a3-8c64-206bcb97ed1b" />
-  <Project Path="01_05_RefVal/01_05_RefVal.csproj" Id="a21c8435-ca79-4a42-80e9-98116e10a89e" />
-  <Project Path="01_06_Static/01_06_Static.csproj" Id="7a364762-e050-4fc0-8adb-a40aeeb32cf1" />
-  <Project Path="CoreLib/CoreLib.csproj" />
-</Solution>
