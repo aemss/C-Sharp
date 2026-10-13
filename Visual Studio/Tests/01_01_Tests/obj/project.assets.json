@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\01_01_Test\\Tests\\01_01_Test.csproj",
-      "projectName": "01_01_Test",
-      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\01_01_Test\\Tests\\01_01_Test.csproj",
+      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Tests\\01_01_Tests\\01_01_Tests.csproj",
+      "projectName": "01_01_Tests",
+      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Tests\\01_01_Tests\\01_01_Tests.csproj",
       "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\01_01_Test\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Tests\\01_01_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\01_01_Test\\",
+  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A0E3E7-9E78-4CA1-8028-93F72528C515}|..\\..\\C#\\Visual Studio\\01_01_Test\\Tests\\Tests.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\01_01_test\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A0E3E7-9E78-4CA1-8028-93F72528C515}|..\\..\\C#\\Visual Studio\\01_01_Test\\Tests\\Tests.csproj|solutionrelative:tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA54DF2C-2EA6-482C-AAF8-CE3EE1FCB436}|01_02_Tests\\01_02_Tests.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\tests\\01_02_tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA54DF2C-2EA6-482C-AAF8-CE3EE1FCB436}|01_02_Tests\\01_02_Tests.csproj|solutionrelative:01_02_tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\01_01_Test\\Tests\\Program.cs",
-              "RelativeDocumentMoniker": "Tests\\Program.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\01_01_Test\\Tests\\Program.cs",
-              "RelativeToolTip": "Tests\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Tests\\01_02_Tests\\Program.cs",
+              "RelativeDocumentMoniker": "01_02_Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Tests\\01_02_Tests\\Program.cs",
+              "RelativeToolTip": "01_02_Tests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T20:01:38.517Z",
+              "WhenOpened": "2026-10-13T16:35:40.547Z",
               "EditorCaption": ""
             }
           ]

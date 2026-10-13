@@ -1,5 +1,4 @@
-﻿
-// Answer 1
+﻿// Answer 1
 
 /*
  public class Solution
@@ -53,5 +52,3 @@ public class Solution
     }
 }
 */
-
-
