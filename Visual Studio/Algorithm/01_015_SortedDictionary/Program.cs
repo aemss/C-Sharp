@@ -4,6 +4,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        
         var kitapIndeks = new SortedDictionary<String, List<int>>() 
         {
             {"HTML", new List<int>() {8,10,12 }  },

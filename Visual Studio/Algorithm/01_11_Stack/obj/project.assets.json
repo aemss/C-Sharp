@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_11_Stack\\01_11_Stack.csproj",
+      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_11_Stack\\01_11_Stack.csproj",
       "projectName": "01_11_Stack",
-      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_11_Stack\\01_11_Stack.csproj",
+      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_11_Stack\\01_11_Stack.csproj",
       "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_11_Stack\\obj\\",
+      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_11_Stack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

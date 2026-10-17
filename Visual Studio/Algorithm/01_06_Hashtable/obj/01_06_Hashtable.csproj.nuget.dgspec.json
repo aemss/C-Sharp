@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj": {}
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj": {
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj",
+        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj",
         "projectName": "01_06_Hashtable",
-        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj",
+        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_06_Hashtable\\01_06_Hashtable.csproj",
         "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_06_Hashtable\\obj\\",
+        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_06_Hashtable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

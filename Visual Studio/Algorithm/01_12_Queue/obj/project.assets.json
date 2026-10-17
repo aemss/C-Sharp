@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_12_Queue\\01_12_Queue.csproj",
+      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_12_Queue\\01_12_Queue.csproj",
       "projectName": "01_12_Queue",
-      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_12_Queue\\01_12_Queue.csproj",
+      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_12_Queue\\01_12_Queue.csproj",
       "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_12_Queue\\obj\\",
+      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_12_Queue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

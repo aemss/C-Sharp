@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_03_Struct\\01_02_Struct.csproj",
+      "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_03_Struct\\01_02_Struct.csproj",
       "projectName": "01_02_Struct",
-      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_03_Struct\\01_02_Struct.csproj",
+      "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_03_Struct\\01_02_Struct.csproj",
       "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_03_Struct\\obj\\",
+      "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_03_Struct\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj": {}
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj": {
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj",
         "projectName": "01_15_SortedDictionary",
-        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj",
+        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\01_15_SortedDictionary.csproj",
         "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_015_SortedDictionary\\obj\\",
+        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

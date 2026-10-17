@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj": {}
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj": {
+    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj",
+        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj",
         "projectName": "01_09_SortedList2",
-        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj",
+        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_09_SortedList2\\01_09_SortedList2.csproj",
         "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C# New Project\\Algorithm\\01_09_SortedList2\\obj\\",
+        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\01_09_SortedList2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

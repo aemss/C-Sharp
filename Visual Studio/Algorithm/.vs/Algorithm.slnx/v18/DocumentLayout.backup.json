@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Algorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F01BFB8-9BE0-48CA-9F83-2755ACBDA60C}|01_17_HashSet\\01_17_HashSet.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c# new project\\algorithm\\01_17_hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F01BFB8-9BE0-48CA-9F83-2755ACBDA60C}|01_17_HashSet\\01_17_HashSet.csproj|solutionrelative:01_17_hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FC13DCB-3097-4631-83D4-915401AF1D3E}|01_015_SortedDictionary\\01_15_SortedDictionary.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\01_015_sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC13DCB-3097-4631-83D4-915401AF1D3E}|01_015_SortedDictionary\\01_15_SortedDictionary.csproj|solutionrelative:01_015_sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Algorithm\\01_17_HashSet\\Program.cs",
-              "RelativeDocumentMoniker": "01_17_HashSet\\Program.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\Algorithm\\01_17_HashSet\\Program.cs*",
-              "RelativeToolTip": "01_17_HashSet\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\Program.cs",
+              "RelativeDocumentMoniker": "01_015_SortedDictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\01_015_SortedDictionary\\Program.cs",
+              "RelativeToolTip": "01_015_SortedDictionary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:14:54.334Z",
+              "WhenOpened": "2026-10-17T12:51:30.078Z",
               "EditorCaption": ""
             }
           ]
