@@ -18,5 +18,7 @@
     <Project Path="01_16_SortedList/01_16_SortedSet.csproj" Id="340fd24f-b6ec-47d6-bcb7-c9a2dcc78a89" />
     <Project Path="01_17_HashSet/01_17_HashSet.csproj" Id="5f01bfb8-9be0-48ca-9f83-2755acbda60c" />
   </Folder>
-  <Folder Name="/Algorithm_2/" />
+  <Folder Name="/Algorithm_2/">
+    <Project Path="02_01_Const&amp;ReadOnly/02_01_Const&amp;ReadOnly.csproj" Id="0882f8d6-8e2a-486b-bf3c-b9b5f2fe3e15" />
+  </Folder>
 </Solution>
