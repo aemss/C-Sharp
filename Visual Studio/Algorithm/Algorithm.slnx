@@ -20,5 +20,7 @@
   </Folder>
   <Folder Name="/Algorithm_2/">
     <Project Path="02_01_Const&amp;ReadOnly/02_01_Const&amp;ReadOnly.csproj" Id="0882f8d6-8e2a-486b-bf3c-b9b5f2fe3e15" />
+    <Project Path="02_02_Apps/02_02_Apps.csproj" Id="b3cc9bf5-544b-4f2f-b61f-dfeeaacc42e9" />
+    <Project Path="DataStructures/DataStructures.csproj" Id="07147c7b-6ed8-41c8-aa93-ec9a8602b39d" />
   </Folder>
 </Solution>
