@@ -18,20 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Array.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Array\\Array.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
-              "RelativeToolTip": "DataStructures\\Array\\Array.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T16:38:22.085Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -41,9 +32,22 @@
               "RelativeDocumentMoniker": "02_02_Apps\\Program.cs",
               "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
               "RelativeToolTip": "02_02_Apps\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwH0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T14:11:26.924Z",
+              "WhenOpened": "2026-10-23T15:22:56.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Array\\Array.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
+              "RelativeToolTip": "DataStructures\\Array\\Array.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:38:22.085Z",
               "EditorCaption": ""
             }
           ]
