@@ -77,6 +77,27 @@ public class Array<T> : IEnumerable<T>, ICloneable
             Count--;
         return temp;
     }
+    public void AddRange(IEnumerable<T> collection)
+    {
+        foreach(var item in collection)
+            Add(item);
+    }
+    public void RemoveAt(int index)
+    {
+        if(index < 0 || index >= Count)
+        {
+            throw new IndexOutOfRangeException("Index is out of range.");
+        }
+
+        for (int i = index; i < Count - 1; i++)
+            InnerList[i] = InnerList[i + 1];
+
+        Count--;
+
+        if(InnerList.Length > 2 && InnerList.Length / 4 == Count)
+            HalfArray();
+    }
+
         
     private void HalfArray()
     {
@@ -107,3 +128,4 @@ public class Array<T> : IEnumerable<T>, ICloneable
         return GetEnumerator();
     }
 }
+

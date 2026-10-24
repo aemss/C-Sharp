@@ -57,7 +57,6 @@ void ArrayStructure()
 
     Console.WriteLine($"{arr.Count} / {arr.Capacity}");
 }
-
 void Example()
 {
     var p1 = new DataStructures.Array.Array<int>(1, 2, 3, 4);
@@ -72,7 +71,6 @@ void Example()
         Console.WriteLine(item);
 
 }
-
 void SimulateArrayResizing() 
 {
     var arr = new DataStructures.Array.Array<int>();
@@ -95,7 +93,6 @@ void SimulateArrayResizing()
     foreach (var item in arr)
         Console.WriteLine(item);
 }
-
 void Clone()
 {
     var arr = new DataStructures.Array.Array<int>(1, 3, 5, 7);
@@ -121,6 +118,18 @@ void Clone()
 
 
 }
+void HomeWork()
+{
+    var arr = new DataStructures.Array.Array<int>(1, 3, 5, 7);
+    var list = new List<int>() { 13, 15, 17, 19 };
 
-var arr = new DataStructures.Array.Array<int>(1, 3, 5, 7);
-var list = new List<int>() { 13, 15, 17, 19 };
+    arr.RemoveAt(2);
+    list.RemoveAt(3);
+
+    foreach (var item in arr)
+        Console.WriteLine(item);
+    Console.WriteLine();
+    foreach (var item in list)
+        Console.WriteLine(item);
+}
+
