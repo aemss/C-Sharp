@@ -8,7 +8,7 @@ namespace DataStructures.Array;
 
 public class Array<T> : IEnumerable<T>, ICloneable
 {
-    private T[] InnerList;
+    public T[] InnerList;
     public int Count{ get; private set; }
     public int Capacity => InnerList.Length;
 

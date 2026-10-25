@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|solutionrelative:02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\datastructures\\linkedlist\\singlylinkedlist\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\singlylinkedlist\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\datastructures\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|solutionrelative:02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
               "RelativeDocumentMoniker": "02_02_Apps\\Program.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs*",
-              "RelativeToolTip": "02_02_Apps\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
+              "RelativeToolTip": "02_02_Apps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T15:22:56.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Array.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Array\\Array.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\Array\\Array.cs",
-              "RelativeToolTip": "DataStructures\\Array\\Array.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAtwFwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T16:38:22.085Z",
+              "WhenOpened": "2026-10-25T11:38:22.814Z",
               "EditorCaption": ""
             }
           ]
