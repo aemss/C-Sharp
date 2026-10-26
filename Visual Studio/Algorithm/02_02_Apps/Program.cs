@@ -27,6 +27,8 @@ class Program
         linkedList.AddAfter(linkedList.Head.Next.Next,33);
         //  3,2,32,1,4,5 O(n)
 
+        foreach(var item in linkedList)
+            Console.WriteLine(item);
 
         Console.ReadKey();
     }

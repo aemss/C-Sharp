@@ -1,11 +1,12 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DataStructures.LinkedList.SinglyLinkedList;
 
 
-public class SinglyLinkedList<T>
+public class SinglyLinkedList<T> : IEnumerable<T>
 {
     public SinglyLinkedListNode<T> Head { get; set; }
     private bool isHeadnull => Head == null;
@@ -105,4 +106,14 @@ public class SinglyLinkedList<T>
         throw new ArgumentException();
     }
 
+    public IEnumerator<T> GetEnumerator()
+    {
+        return new SinglyLinkedListEnumerator<T>(Head);
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
 }
+
