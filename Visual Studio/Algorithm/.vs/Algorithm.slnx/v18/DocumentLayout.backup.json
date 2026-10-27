@@ -29,6 +29,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SinglyLinkedListEnumerator.cs",
@@ -55,10 +59,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SinglyLinkedList.cs",
@@ -77,9 +77,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
               "RelativeDocumentMoniker": "02_02_Apps\\Program.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs*",
-              "RelativeToolTip": "02_02_Apps\\Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
+              "RelativeToolTip": "02_02_Apps\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T15:22:56.81Z",
               "EditorCaption": ""

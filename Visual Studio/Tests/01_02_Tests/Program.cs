@@ -60,8 +60,6 @@ public class Solution2
     }
 }
 
-
-
 // Answer 3 
 public class Solution3
 {
@@ -81,6 +79,30 @@ public class Solution3
         }
 
         return onceki1;
+    }
+}
+
+public class Solution4
+{
+    public string MergeAlternately(string word1, string word2)
+    {
+        
+        StringBuilder sonuc = new StringBuilder();
+        
+        for (int i = 0; i < word1.Length || i < word2.Length; i++)
+        {
+
+            if (i < word1.Length)
+                sonuc.Append(word1[i]);
+
+
+
+            if (i < word2.Length)
+                sonuc.Append(word2[i]);
+
+        }
+
+        return sonuc.ToString();
     }
 }
 
