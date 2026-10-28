@@ -4,13 +4,14 @@ using DataStructures.LinkedList.SinglyLinkedList;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Channels;
 
 namespace Apps;
 
 
 class Program
 {
-    static void Main(string[] args)
+    private static void SinglyLinkedListApp01()
     {
         var linkedList = new SinglyLinkedList<int>();
         linkedList.AddFirst(1);
@@ -23,16 +24,77 @@ class Program
         linkedList.AddLast(5);
         //  3,2,1,4,5 O(n)
 
-        linkedList.AddAfter(linkedList.Head.Next,32);
-        linkedList.AddAfter(linkedList.Head.Next.Next,33);
+        linkedList.AddAfter(linkedList.Head.Next, 32);
+        linkedList.AddAfter(linkedList.Head.Next.Next, 33);
         //  3,2,32,1,4,5 O(n)
 
-        foreach(var item in linkedList)
+        foreach (var item in linkedList)
             Console.WriteLine(item);
 
         Console.ReadKey();
     }
+    private static void SinglyLinkedListApp02()
+    {
+        var arr = new char[] { 'a', 'b', 'c', };
+        var list = new List<char>(arr);
+        var clinkedList = new LinkedList<char>(arr);
+        list.AddRange(new char[] { 'd', 'e', 'f' });
+
+        var linkedList = new SinglyLinkedList<char>(list);
+
+        foreach (var item in linkedList)
+        {
+            Console.WriteLine(item);
+        }
+
+        var charset = new List<char>(linkedList);
+        Console.WriteLine();
+
+        foreach (var item in charset)
+        {
+            Console.Write(item + " ");
+        }
+    }
+    private static void SinglyLinkedListApp03()
+    {
+        var rnd = new Random();
+        var initial = Enumerable.Range(1, 10).OrderBy(x => rnd.Next()).ToList();
+        var linkedList = new SinglyLinkedList<int>(initial);
+
+        var q = from item in linkedList
+                where item % 2 == 1
+                select item;
+
+        Console.WriteLine();
+
+        linkedList.Where(x => x > 5)
+            .ToList()
+            .ForEach(x => Console.Write(x + " "));
+    }
+    
+    static void Main(string[] args)
+    {
+        var rnd = new Random();
+        var initial = Enumerable.Range(1, 5).OrderBy(x => rnd.Next()).ToList();
+        var list = new LinkedList<int>(initial);
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
+        list.RemoveFirst();
+
+        list.RemoveLast();
+        
+
+        Console.WriteLine();
+        foreach (var item in list)
+        {
+            Console.Write(item + " ");
+        }
+    }
+
 }
+
 
 
 
