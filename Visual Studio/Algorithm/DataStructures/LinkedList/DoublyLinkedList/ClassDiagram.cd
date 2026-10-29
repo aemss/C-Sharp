@@ -7,5 +7,12 @@
       <FileName>LinkedList\DoublyLinkedList\DoublyLinkedListNode.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="DataStructures.LinkedList.DoublyLinkedList.DoublyLinkedList&lt;T&gt;">
+    <Position X="4" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>LinkedList\DoublyLinkedList\DoublyLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

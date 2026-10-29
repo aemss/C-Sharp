@@ -200,7 +200,5 @@ public class SinglyLinkedList<T> : IEnumerable<T>
         } while (current!= null);
 
         throw new ArgumentException("The value could not be found in the list!");
-
-            
     }
 }

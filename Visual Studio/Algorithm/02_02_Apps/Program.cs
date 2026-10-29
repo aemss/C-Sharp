@@ -1,5 +1,6 @@
 ﻿
 using DataStructures;
+using DataStructures.LinkedList.DoublyLinkedList;
 using DataStructures.LinkedList.SinglyLinkedList;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,10 +9,9 @@ using System.Threading.Channels;
 
 namespace Apps;
 
-
-class Program
+public class SinglyLinkedListApps()
 {
-    private static void SinglyLinkedListApp01()
+    public static void SinglyLinkedListApp01()
     {
         var linkedList = new SinglyLinkedList<int>();
         linkedList.AddFirst(1);
@@ -33,7 +33,7 @@ class Program
 
         Console.ReadKey();
     }
-    private static void SinglyLinkedListApp02()
+    public static void SinglyLinkedListApp02()
     {
         var arr = new char[] { 'a', 'b', 'c', };
         var list = new List<char>(arr);
@@ -55,7 +55,7 @@ class Program
             Console.Write(item + " ");
         }
     }
-    private static void SinglyLinkedListApp03()
+    public static void SinglyLinkedListApp03()
     {
         var rnd = new Random();
         var initial = Enumerable.Range(1, 10).OrderBy(x => rnd.Next()).ToList();
@@ -71,7 +71,7 @@ class Program
             .ToList()
             .ForEach(x => Console.Write(x + " "));
     }
-    private static void SinglyLinkedListApp04()
+    public static void SinglyLinkedListApp04()
     {
         var rnd = new Random();
         var initial = Enumerable.Range(1, 5).OrderBy(x => rnd.Next()).ToList();
@@ -91,10 +91,9 @@ class Program
             Console.Write(item + " ");
         }
     }
-    
-    static void Main(string[] args)
+    public static void SinglyLinkedListApp05()
     {
-        var list = new SinglyLinkedList<int>(new int[] {23,44,32,55});
+        var list = new SinglyLinkedList<int>(new int[] { 23, 44, 32, 55 });
         list.Remove(32);
         list.Remove(55);
         // list.Remove(13);
@@ -103,17 +102,9 @@ class Program
         {
             Console.WriteLine(item);
         }
-
     }
 
 }
-
-
-
-
-
-
-
 public class Arrays()
 {
     public static void Entering()
@@ -249,6 +240,26 @@ public class Arrays()
     }
 
 }
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var list = new DoublyLinkedList<int>();
+        list.AddFirst(12);
+        list.AddFirst(23);
+
+    }
+    
+
+}
+
+
+
+
+
+
+
 
 
 
