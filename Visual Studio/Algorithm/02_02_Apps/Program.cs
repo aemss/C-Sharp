@@ -71,8 +71,7 @@ class Program
             .ToList()
             .ForEach(x => Console.Write(x + " "));
     }
-    
-    static void Main(string[] args)
+    private static void SinglyLinkedListApp04()
     {
         var rnd = new Random();
         var initial = Enumerable.Range(1, 5).OrderBy(x => rnd.Next()).ToList();
@@ -84,7 +83,7 @@ class Program
         list.RemoveFirst();
 
         list.RemoveLast();
-        
+
 
         Console.WriteLine();
         foreach (var item in list)
@@ -92,8 +91,25 @@ class Program
             Console.Write(item + " ");
         }
     }
+    
+    static void Main(string[] args)
+    {
+        var list = new SinglyLinkedList<int>(new int[] {23,44,32,55});
+        list.Remove(32);
+        list.Remove(55);
+        // list.Remove(13);
+
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
+
+    }
 
 }
+
+
+
 
 
 

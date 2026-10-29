@@ -7,19 +7,19 @@
       <FileName>LinkedList\SinglyLinkedList\SinglyLinkedListNode.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DataStructures.LinkedList.SinglyLinkedList.SinglyLinkedList&lt;T&gt;">
-    <Position X="8.25" Y="2.5" Width="2.5" />
-    <TypeIdentifier>
-      <HashCode>AACAABAAAAAAAJAAAAAAIAAAAAAACAAEAAAAAAAAAAA=</HashCode>
-      <FileName>LinkedList\SinglyLinkedList\SinglyLinkedList.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.2" />
-  </Class>
   <Class Name="DataStructures.LinkedList.SinglyLinkedList.SinglyLinkedListEnumerator&lt;T&gt;">
     <Position X="11.5" Y="2.25" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAABIAAAACAAAAAAAAAAAAAoAAABAAAAAA=</HashCode>
       <FileName>LinkedList\SinglyLinkedList\SinglyLinkedListEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructures.LinkedList.SinglyLinkedList.SinglyLinkedList&lt;T&gt;">
+    <Position X="8" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACIABAAAAAAAJAAAAAAJAAAAAAQCAAEAAAAAAAAAAA=</HashCode>
+      <FileName>LinkedList\SinglyLinkedList\SinglyLinkedList.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
