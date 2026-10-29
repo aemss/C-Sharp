@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Reflection.PortableExecutable;
+using System.Text;
 
 // Answer 1
 public class Solution1
@@ -105,6 +106,37 @@ public class Solution4
         return sonuc.ToString();
     }
 }
+
+public class Solution5
+{
+    public string GcdOfStrings(string str1, string str2)
+    {
+        int ebobuzunlugu = 0;
+        if (str1 + str2 != str2 + str1)
+        {
+            return "";
+        }
+
+        ebobuzunlugu = Ebob(str1.Length, str2.Length);
+
+        return str1.Substring(0, ebobuzunlugu);
+
+
+
+    }
+    public int Ebob(int a,int b)
+    {
+        while(b != 0)
+        {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+}
+            
+
 
 
 
