@@ -83,6 +83,7 @@ public class Solution3
     }
 }
 
+// Answer 4
 public class Solution4
 {
     public string MergeAlternately(string word1, string word2)
@@ -107,6 +108,7 @@ public class Solution4
     }
 }
 
+// Answer 5 
 public class Solution5
 {
     public string GcdOfStrings(string str1, string str2)
@@ -135,9 +137,27 @@ public class Solution5
         return a;
     }
 }
-            
 
+// Answer 6
+public class Solution6
+{
+    public IList<bool> KidsWithCandies(int[] candies, int extraCandies)
+    {
+        int a = candies.Max();
 
+        List<bool> sonucListesi = new List<bool>();
+
+        foreach (var item in candies)
+        {
+            if (item + extraCandies >= a)
+                sonucListesi.Add(true);
+            else
+                sonucListesi.Add(false);
+        }
+
+        return sonucListesi;
+    }
+}
 
 
 
