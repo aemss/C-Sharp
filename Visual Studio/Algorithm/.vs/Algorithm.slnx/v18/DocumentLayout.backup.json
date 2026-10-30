@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CC9BF5-544B-4F2F-B61F-DFEEAACC42E9}|02_02_Apps\\02_02_Apps.csproj|solutionrelative:02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07147C7B-6ED8-41C8-AA93-EC9A8602B39D}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DAECE06-A6AE-6B7D-9659-6372F61F1548}|Algorithm_2\\02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAECE06-A6AE-6B7D-9659-6372F61F1548}|Algorithm_2\\02_02_Apps\\02_02_Apps.csproj|solutionrelative:algorithm_2\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DoublyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeToolTip": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T13:16:45.188Z",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-10-29T16:55:06.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
-              "RelativeDocumentMoniker": "02_02_Apps\\Program.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
-              "RelativeToolTip": "02_02_Apps\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwPkAAAAaAAAAAAAAAA==",
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAkwNMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T15:22:56.81Z",
+              "WhenOpened": "2026-10-29T16:55:03.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_02_Apps\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithm_2\\02_02_Apps\\Program.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_02_Apps\\Program.cs",
+              "RelativeToolTip": "Algorithm_2\\02_02_Apps\\Program.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAowBIBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:54:55.387Z",
               "EditorCaption": ""
             }
           ]
