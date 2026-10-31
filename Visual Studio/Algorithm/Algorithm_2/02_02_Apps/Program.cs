@@ -6,6 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Channels;
+using DataStructures.Stack;
 
 namespace Apps;
 
@@ -293,7 +294,10 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        var charset = new char[] { 'a','b','c'};
+        var stack1 = new Stack<char>();
+        var stack2 = new Stack<char>();
+    
     }
 
 
