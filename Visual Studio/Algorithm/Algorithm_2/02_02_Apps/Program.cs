@@ -105,6 +105,54 @@ public class SinglyLinkedListApps()
     }
 
 }
+public class DoublyLinkedListApps()
+{
+    public static void DoublyLinkedListApp01()
+    {
+        var list = new DoublyLinkedList<int>();
+        list.AddFirst(12);
+        list.AddFirst(23);
+        // 23 12
+
+        list.AddLast(44);
+        list.AddLast(55);
+        // 23 12 44 55
+
+        list.AddAfter(list.Head.Next,
+            new DoublyLinkedListNode<int>(13));
+        // 23 12 13 44 55 
+        list.AddBefore(list.Head.Next.Next.Next,
+            new DoublyLinkedListNode<int>(49));
+        // 23 12 13 49 44 55 
+
+        foreach (var item in list)
+            Console.Write(item + " ");
+
+
+    }
+    public static void DoublyLinkedListApp02()
+    {
+        var list = new DoublyLinkedList<char>(new List<char> { 'a', 'b', 'c' });
+
+        Console.WriteLine($"{list.RemoveFirst()} has been removed.");
+        Console.WriteLine($"{list.RemoveLast()} has been removed.");
+
+
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
+    }
+    public static void DoublyLinkedListApp03()
+    {
+        var list = new DoublyLinkedList<int>(new int[] { 23, 44, 55, 53 });
+        list.Remove(55);
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
+    }
+}
 public class Arrays()
 {
     public static void Entering()
@@ -243,54 +291,12 @@ public class Arrays()
 
 class Program
 {
-    public static void DoublyLinkedListApp01()
-    {
-        var list = new DoublyLinkedList<int>();
-        list.AddFirst(12);
-        list.AddFirst(23);
-        // 23 12
-
-        list.AddLast(44);
-        list.AddLast(55);
-        // 23 12 44 55
-
-        list.AddAfter(list.Head.Next,
-            new DoublyLinkedListNode<int>(13));
-        // 23 12 13 44 55 
-        list.AddBefore(list.Head.Next.Next.Next,
-            new DoublyLinkedListNode<int>(49));
-        // 23 12 13 49 44 55 
-
-        foreach (var item in list)
-            Console.Write(item + " ");
-
-
-    }
     static void Main(string[] args)
     {
-        var list = new DoublyLinkedList<int>(new int[] {23,44,55,53});
-        list.Remove(55);
-        foreach (var item in list)
-        {
-            Console.WriteLine(item);
-        }
-    
+
     }
 
 
-    private static void DoublyLinkedListApp02()
-    {
-        var list = new DoublyLinkedList<char>(new List<char> { 'a', 'b', 'c' });
-
-        Console.WriteLine($"{list.RemoveFirst()} has been removed.");
-        Console.WriteLine($"{list.RemoveLast()} has been removed.");
-
-
-        foreach (var item in list)
-        {
-            Console.WriteLine(item);
-        }
-    }
 }
 
 
