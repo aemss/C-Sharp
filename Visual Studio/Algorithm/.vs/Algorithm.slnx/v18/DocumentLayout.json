@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2DAECE06-A6AE-6B7D-9659-6372F61F1548}|Algorithm_2\\02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DAECE06-A6AE-6B7D-9659-6372F61F1548}|Algorithm_2\\02_02_Apps\\02_02_Apps.csproj|solutionrelative:algorithm_2\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\linkedlist\\doublylinkedlist\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\stack\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\stack\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\stack\\linkedliststack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\stack\\linkedliststack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\stack\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\stack\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\onedrive\\masa\u00FCst\u00FC\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,38 +38,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClassDiagram.cd",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
-              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
-              "RelativeToolTip": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Stack\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\ClassDiagram.cd",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\Stack\\ClassDiagram.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2026-10-29T16:55:06.167Z",
+              "WhenOpened": "2026-10-31T15:37:21.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoublyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeToolTip": "Algorithm_2\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAkwNoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LinkedListStack.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\LinkedListStack.cs",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Stack\\LinkedListStack.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\LinkedListStack.cs",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\Stack\\LinkedListStack.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T16:55:03.572Z",
+              "WhenOpened": "2026-10-31T14:51:53.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ArrayStack.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\ArrayStack.cs",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Stack\\ArrayStack.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\ArrayStack.cs",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\Stack\\ArrayStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:51:26.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Stack\\Stack.cs",
+              "RelativeToolTip": "Algorithm_2\\DataStructures\\Stack\\Stack.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:28:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_02_Apps\\Program.cs",
               "RelativeDocumentMoniker": "Algorithm_2\\02_02_Apps\\Program.cs",
               "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_02_Apps\\Program.cs",
               "RelativeToolTip": "Algorithm_2\\02_02_Apps\\Program.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAowBIBAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACwBAAAAAAAAAAAUwD0BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T16:54:55.387Z",
               "EditorCaption": ""

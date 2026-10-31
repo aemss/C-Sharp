@@ -2,12 +2,11 @@
 using DataStructures;
 using DataStructures.LinkedList.DoublyLinkedList;
 using DataStructures.LinkedList.SinglyLinkedList;
-using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Channels;
 using DataStructures.Stack;
-
+using System.Collections.Generic;
+using System.Collections;
 namespace Apps;
 
 public class SinglyLinkedListApps()
@@ -294,12 +293,30 @@ class Program
 {
     static void Main(string[] args)
     {
-        var charset = new char[] { 'a','b','c'};
-        var stack1 = new Stack<char>();
-        var stack2 = new Stack<char>();
-    
-    }
+        var charset = new char[] { 'a','b','c','d','e'};
+        var stack1 = new DataStructures.Stack.Stack<char>();
+        var stack2 = new DataStructures.Stack.Stack<char>(StackType.LinkedList);
 
+        foreach (var item in charset)
+        {
+            Console.WriteLine(item);
+            stack1.Push(item);
+            stack2.Push(item);
+        }
+
+        Console.WriteLine("\nPeek");
+        Console.WriteLine($"Stack1: {stack1.Peek()}");
+        Console.WriteLine($"Stack2: {stack2.Peek()}");
+
+        Console.WriteLine("\nCount");
+        Console.WriteLine($"Stack1: {stack1.Count}");
+        Console.WriteLine($"Stack2: {stack2.Count}");
+
+        Console.WriteLine("\nPop");
+        Console.WriteLine($"Stack1: {stack1.Pop()}");
+        Console.WriteLine($"Stack2: {stack2.Pop()}");
+    }
+    
 
 }
 
