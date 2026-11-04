@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\bin\Debug\net10.0\01_02_Ascii.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\bin\Debug\net10.0\01_02_Ascii.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\bin\Debug\net10.0\01_02_Ascii.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\bin\Debug\net10.0\01_02_Ascii.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\bin\Debug\net10.0\01_02_Ascii.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\refint\01_02_Ascii.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\01_02_Ascii.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_02_Ascii\obj\Debug\net10.0\ref\01_02_Ascii.dll

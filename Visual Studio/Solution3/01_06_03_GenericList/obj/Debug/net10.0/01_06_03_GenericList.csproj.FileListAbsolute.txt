@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\bin\Debug\net10.0\01_06_03_GenericList.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\bin\Debug\net10.0\01_06_03_GenericList.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\bin\Debug\net10.0\01_06_03_GenericList.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\bin\Debug\net10.0\01_06_03_GenericList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\bin\Debug\net10.0\01_06_03_GenericList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\refint\01_06_03_GenericList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\01_06_03_GenericList.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_06_03_GenericList\obj\Debug\net10.0\ref\01_06_03_GenericList.dll

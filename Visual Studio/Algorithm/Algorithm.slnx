@@ -1,0 +1,27 @@
+<Solution>
+  <Folder Name="/Algorithm_1/">
+    <Project Path="Algorithm_1/01_015_SortedDictionary/01_15_SortedDictionary.csproj" />
+    <Project Path="Algorithm_1/01_01_Syntax/01_02_List.csproj" />
+    <Project Path="Algorithm_1/01_02_Byte/01_01_Byte.csproj" />
+    <Project Path="Algorithm_1/01_03_Struct/01_02_Struct.csproj" />
+    <Project Path="Algorithm_1/01_03_Struct2/01_03_Struct2.csproj" />
+    <Project Path="Algorithm_1/01_04_Class/01_04_Class.csproj" />
+    <Project Path="Algorithm_1/01_05_Arrays/01_05_Arrays.csproj" />
+    <Project Path="Algorithm_1/01_06_Hashtable/01_06_Hashtable.csproj" />
+    <Project Path="Algorithm_1/01_07_Hashtable2/01_07_Hashtable2.csproj" />
+    <Project Path="Algorithm_1/01_08_SortedList/01_08_SortedList.csproj" />
+    <Project Path="Algorithm_1/01_09_SortedList2/01_09_SortedList2.csproj" />
+    <Project Path="Algorithm_1/01_10_List/01_10_List.csproj" />
+    <Project Path="Algorithm_1/01_11_Stack/01_11_Stack.csproj" />
+    <Project Path="Algorithm_1/01_12_Queue/01_12_Queue.csproj" />
+    <Project Path="Algorithm_1/01_13_LinkedList/01_13_LinkedList.csproj" />
+    <Project Path="Algorithm_1/01_14_Dictionary/01_14_Dictionary.csproj" />
+    <Project Path="Algorithm_1/01_16_SortedList/01_16_SortedSet.csproj" />
+    <Project Path="Algorithm_1/01_17_HashSet/01_17_HashSet.csproj" />
+  </Folder>
+  <Folder Name="/Algorithm_2/">
+    <Project Path="Algorithm_2/02_01_Const&amp;ReadOnly/02_01_Const&amp;ReadOnly.csproj" />
+    <Project Path="Algorithm_2/02_02_Apps/02_02_Apps.csproj" />
+    <Project Path="Algorithm_2/DataStructures/DataStructures.csproj" />
+  </Folder>
+</Solution>

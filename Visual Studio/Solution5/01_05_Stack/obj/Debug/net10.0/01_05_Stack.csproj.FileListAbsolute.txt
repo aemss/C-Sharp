@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\bin\Debug\net10.0\01_05_Stack.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\bin\Debug\net10.0\01_05_Stack.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\bin\Debug\net10.0\01_05_Stack.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\bin\Debug\net10.0\01_05_Stack.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\bin\Debug\net10.0\01_05_Stack.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\refint\01_05_Stack.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\01_05_Stack.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_05_Stack\obj\Debug\net10.0\ref\01_05_Stack.dll

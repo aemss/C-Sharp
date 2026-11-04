@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\bin\Debug\net10.0\03_02_SignedAndUnsigned.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\bin\Debug\net10.0\03_02_SignedAndUnsigned.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\bin\Debug\net10.0\03_02_SignedAndUnsigned.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\bin\Debug\net10.0\03_02_SignedAndUnsigned.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\bin\Debug\net10.0\03_02_SignedAndUnsigned.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\refint\03_02_SignedAndUnsigned.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\03_02_SignedAndUnsigned.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_02_SignedAndUnsigned\obj\Debug\net10.0\ref\03_02_SignedAndUnsigned.dll

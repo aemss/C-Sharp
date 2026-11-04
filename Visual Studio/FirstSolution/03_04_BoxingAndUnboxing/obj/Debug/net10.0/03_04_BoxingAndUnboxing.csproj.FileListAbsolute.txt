@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\bin\Debug\net10.0\03_04_BoxingAndUnboxing.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\bin\Debug\net10.0\03_04_BoxingAndUnboxing.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\bin\Debug\net10.0\03_04_BoxingAndUnboxing.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\bin\Debug\net10.0\03_04_BoxingAndUnboxing.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\bin\Debug\net10.0\03_04_BoxingAndUnboxing.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\refint\03_04_BoxingAndUnboxing.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\03_04_BoxingAndUnboxing.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\03_04_BoxingAndUnboxing\obj\Debug\net10.0\ref\03_04_BoxingAndUnboxing.dll

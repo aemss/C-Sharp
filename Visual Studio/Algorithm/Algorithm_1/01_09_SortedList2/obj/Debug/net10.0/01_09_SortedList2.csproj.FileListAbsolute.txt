@@ -1,0 +1,15 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\bin\Debug\net10.0\01_09_SortedList2.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\bin\Debug\net10.0\01_09_SortedList2.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\bin\Debug\net10.0\01_09_SortedList2.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\bin\Debug\net10.0\01_09_SortedList2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\bin\Debug\net10.0\01_09_SortedList2.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\refint\01_09_SortedList2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_SortedList2.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\ref\01_09_SortedList2.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Algorithm\01_09_SortedList2\obj\Debug\net10.0\01_09_So.8A19FE27.Up2Date

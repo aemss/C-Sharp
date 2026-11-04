@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\bin\Debug\net10.0\01_03_Directory.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\bin\Debug\net10.0\01_03_Directory.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\bin\Debug\net10.0\01_03_Directory.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\bin\Debug\net10.0\01_03_Directory.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\bin\Debug\net10.0\01_03_Directory.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\refint\01_03_Directory.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\01_03_Directory.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_03_Directory\obj\Debug\net10.0\ref\01_03_Directory.dll

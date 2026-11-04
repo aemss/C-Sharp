@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\bin\Debug\net10.0\01_01_OOPBasics.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\bin\Debug\net10.0\01_01_OOPBasics.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\bin\Debug\net10.0\01_01_OOPBasics.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\bin\Debug\net10.0\01_01_OOPBasics.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\bin\Debug\net10.0\01_01_OOPBasics.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\refint\01_01_OOPBasics.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\01_01_OOPBasics.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_01_OOPBasics\obj\Debug\net10.0\ref\01_01_OOPBasics.dll

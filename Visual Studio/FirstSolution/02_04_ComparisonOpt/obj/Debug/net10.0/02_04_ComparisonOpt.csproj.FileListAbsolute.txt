@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\bin\Debug\net10.0\02_04_ComparisonOpt.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\bin\Debug\net10.0\02_04_ComparisonOpt.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\bin\Debug\net10.0\02_04_ComparisonOpt.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\bin\Debug\net10.0\02_04_ComparisonOpt.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\bin\Debug\net10.0\02_04_ComparisonOpt.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\refint\02_04_ComparisonOpt.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\02_04_ComparisonOpt.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_04_ComparisonOpt\obj\Debug\net10.0\ref\02_04_ComparisonOpt.dll

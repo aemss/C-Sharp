@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\bin\Debug\net10.0\02_11_Random.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\bin\Debug\net10.0\02_11_Random.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\bin\Debug\net10.0\02_11_Random.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\bin\Debug\net10.0\02_11_Random.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\bin\Debug\net10.0\02_11_Random.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\refint\02_11_Random.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\02_11_Random.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\FirstSolution\02_11_Random\obj\Debug\net10.0\ref\02_11_Random.dll

@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\bin\Debug\net10.0\01_07_Sorting.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\bin\Debug\net10.0\01_07_Sorting.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\bin\Debug\net10.0\01_07_Sorting.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\bin\Debug\net10.0\01_07_Sorting.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\bin\Debug\net10.0\01_07_Sorting.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\refint\01_07_Sorting.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\01_07_Sorting.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_Sorting\obj\Debug\net10.0\ref\01_07_Sorting.dll

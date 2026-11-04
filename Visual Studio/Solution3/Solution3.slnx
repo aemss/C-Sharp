@@ -1,0 +1,30 @@
+<Solution>
+  <Folder Name="/Chapter_1/">
+    <Project Path="01_01_OOPBasics/01_01_OOPBasics.csproj" />
+    <Project Path="01_02_File/01_02_File.csproj" Id="4b275699-33f5-407d-848c-c5159a15cc05" />
+    <Project Path="01_03_Directory/01_03_Directory.csproj" Id="40118016-d5b5-4b78-bee8-d0167930c5f3" />
+    <Project Path="01_04_02_Class_Examples/01_04_02_Class_Example.csproj" Id="a1b2c29f-23dd-498f-8847-fb71e423bd88" />
+    <Project Path="01_04_03_Class_Exapmle/01_04_03_Class_Exapmle.csproj" Id="042df588-1b14-415f-b427-5346f67a18c1" />
+    <Project Path="01_04_04_ClassExampe3/01_04_04_ClassExampe3.csproj" Id="56050753-23c8-4c14-8f4b-000850974a72" />
+    <Project Path="01_04_Class/01_04_Class.csproj" Id="e72d50a1-3dca-42a0-af53-290df6eb74f0" />
+    <Project Path="01_05_Static_Methods/01_05_Static_Methods.csproj" Id="052e527b-06e5-4928-828b-608b1fdba8cb" />
+    <Project Path="01_06_02_ArrayList/01_06_02_ArrayList.csproj" Id="a602d74c-4c9d-4725-b26f-ff685de2f764" />
+    <Project Path="01_06_03_GenericList/01_06_03_GenericList.csproj" Id="5360a0b4-7f79-43c5-9075-cf3bb532a3bb" />
+    <Project Path="01_06_04_Dictionary/01_06_04_Dictionary.csproj" Id="206599a7-b766-4f42-9432-3c79b5db30f1" />
+    <Project Path="01_06_Collections/01_06_Collections.csproj" Id="89cdd30f-8223-4d13-9e84-5f9a05098bf5" />
+    <Project Path="01_07_01_Throw_Error/01_07_01_Throw_Error.csproj" Id="2a6419bb-020e-448b-a89f-3e165b71f5c2" />
+    <Project Path="01_07_02_Debug/01_07_02_Debug.csproj" Id="7eeba88d-fd88-4b5e-b8d8-a951602e65fd" />
+  </Folder>
+  <Folder Name="/Chapter_2/">
+    <Project Path="02_01_Examples/02_01_Examples.csproj" Id="3ba72e45-a445-4fa3-83e2-91dae881ba4b" />
+    <Project Path="02_02_01_Inheritance_Examples/02_02_01_Inheritance_Examples.csproj" Id="9e3f8277-272a-4131-b1f9-15022553e40b" />
+    <Project Path="02_02_Inheritance/02_02_Inheritance.csproj" Id="a20a175a-470e-4001-ae60-a4e000f4d97d" />
+    <Project Path="02_03_VirtualOverride/02_03_VirtualOverride.csproj" Id="d31b4028-01d8-4750-925e-38101b52dc3c" />
+    <Project Path="02_04_01_Examples/02_04_01_Examples.csproj" Id="fbc21ecf-ddd5-4292-af91-a53bc2ba203f" />
+    <Project Path="02_04_HierarchicalInheritance/02_04_HierarchicalInheritance.csproj" Id="0f56f1aa-c6ae-4df5-9461-4c07419f9626" />
+    <Project Path="02_05_Interface/02_05_Interface.csproj" Id="aec521b7-a177-40ab-a8df-5a54f90f8291" />
+    <Project Path="02_06_Behaviour/02_06_Behaviour.csproj" Id="9b856725-1ded-4161-8009-9643105168c6" />
+    <Project Path="02_08_AbstractClass/02_08_AbstractClass.csproj" Id="a8f38f47-b7e2-4d72-8c01-e41cfe025348" />
+  </Folder>
+  <Project Path="02_07_MultipleInterfaceInheritance/02_07_MultipleInterfaceInheritance.csproj" Id="ffc2660a-b6a7-475f-8496-d0e1305c88a2" />
+</Solution>

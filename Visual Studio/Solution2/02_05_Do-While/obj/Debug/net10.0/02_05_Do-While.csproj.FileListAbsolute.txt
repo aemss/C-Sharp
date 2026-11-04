@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\bin\Debug\net10.0\02_05_Do-While.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\bin\Debug\net10.0\02_05_Do-While.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\bin\Debug\net10.0\02_05_Do-While.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\bin\Debug\net10.0\02_05_Do-While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\bin\Debug\net10.0\02_05_Do-While.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\refint\02_05_Do-While.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\02_05_Do-While.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_05_Do-While\obj\Debug\net10.0\ref\02_05_Do-While.dll

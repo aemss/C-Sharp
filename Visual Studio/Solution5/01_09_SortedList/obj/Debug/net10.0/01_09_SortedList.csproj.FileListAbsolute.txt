@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\bin\Debug\net10.0\01_09_SortedList.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\bin\Debug\net10.0\01_09_SortedList.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\bin\Debug\net10.0\01_09_SortedList.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\bin\Debug\net10.0\01_09_SortedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\bin\Debug\net10.0\01_09_SortedList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\refint\01_09_SortedList.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\01_09_SortedList.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution5\01_09_SortedList\obj\Debug\net10.0\ref\01_09_SortedList.dll

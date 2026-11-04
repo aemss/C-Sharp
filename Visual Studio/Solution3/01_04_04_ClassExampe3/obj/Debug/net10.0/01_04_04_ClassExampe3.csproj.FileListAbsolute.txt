@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\bin\Debug\net10.0\01_04_04_ClassExampe3.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\bin\Debug\net10.0\01_04_04_ClassExampe3.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\bin\Debug\net10.0\01_04_04_ClassExampe3.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\bin\Debug\net10.0\01_04_04_ClassExampe3.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\bin\Debug\net10.0\01_04_04_ClassExampe3.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\refint\01_04_04_ClassExampe3.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\01_04_04_ClassExampe3.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_04_04_ClassExampe3\obj\Debug\net10.0\ref\01_04_04_ClassExampe3.dll

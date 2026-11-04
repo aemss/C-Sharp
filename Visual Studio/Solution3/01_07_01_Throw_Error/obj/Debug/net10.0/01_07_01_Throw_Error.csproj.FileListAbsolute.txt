@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\bin\Debug\net10.0\01_07_01_Throw_Error.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\bin\Debug\net10.0\01_07_01_Throw_Error.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\bin\Debug\net10.0\01_07_01_Throw_Error.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\bin\Debug\net10.0\01_07_01_Throw_Error.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\bin\Debug\net10.0\01_07_01_Throw_Error.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\refint\01_07_01_Throw_Error.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\01_07_01_Throw_Error.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution3\01_07_01_Throw_Error\obj\Debug\net10.0\ref\01_07_01_Throw_Error.dll

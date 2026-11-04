@@ -1,0 +1,14 @@
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\bin\Debug\net10.0\02_04_Break&&Continue.exe
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\bin\Debug\net10.0\02_04_Break&&Continue.deps.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\bin\Debug\net10.0\02_04_Break&&Continue.runtimeconfig.json
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\bin\Debug\net10.0\02_04_Break&&Continue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\bin\Debug\net10.0\02_04_Break&&Continue.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.AssemblyInfoInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.AssemblyInfo.cs
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.csproj.CoreCompileInputs.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\refint\02_04_Break&&Continue.dll
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.pdb
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\02_04_Break&&Continue.genruntimeconfig.cache
+C:\Users\enes7\OneDrive\Masaüstü\C# New Project\Solution2\02_04_Break&&Continue\obj\Debug\net10.0\ref\02_04_Break&&Continue.dll
