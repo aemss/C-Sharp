@@ -20,8 +20,7 @@
     <Project Path="Algorithm_1/01_17_HashSet/01_17_HashSet.csproj" />
   </Folder>
   <Folder Name="/Algorithm_2/">
-    <Project Path="Algorithm_2/02_01_Const&amp;ReadOnly/02_01_Const&amp;ReadOnly.csproj" />
-    <Project Path="Algorithm_2/02_02_Apps/02_02_Apps.csproj" />
+    <Project Path="Algorithm_2/02_02_Apps/02_01_Apps.csproj" />
     <Project Path="Algorithm_2/DataStructures/DataStructures.csproj" />
   </Folder>
 </Solution>

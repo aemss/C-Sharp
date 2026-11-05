@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj": {}
+    "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj": {
+    "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj",
+        "projectUniqueName": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj",
         "projectName": "02_01_Const&ReadOnly",
-        "projectPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj",
+        "projectPath": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\02_01_Const&ReadOnly.csproj",
         "packagesPath": "C:\\Users\\enes7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes7\\OneDrive\\Masaüstü\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\obj\\",
+        "outputPath": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\02_01_Const&ReadOnly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
