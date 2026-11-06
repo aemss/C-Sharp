@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B988E97-56B5-47C4-BE6F-2A14687F177F}|02_02_Apps\\02_02_Apps.csproj|c:\\users\\enes7\\desktop\\c#\\visual studio\\algorithm\\02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B988E97-56B5-47C4-BE6F-2A14687F177F}|02_02_Apps\\02_02_Apps.csproj|solutionrelative:02_02_apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|c:\\users\\enes7\\desktop\\c#\\visual studio\\algorithm\\algorithm_2\\datastructures\\tree\\bst\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B32972E8-2964-0869-A738-B8BD484A6FFB}|Algorithm_2\\DataStructures\\DataStructures.csproj|solutionrelative:algorithm_2\\datastructures\\tree\\bst\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,38 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
+              "RelativeDocumentMoniker": "02_02_Apps\\Program.cs",
+              "ToolTip": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\02_02_Apps\\Program.cs",
+              "RelativeToolTip": "02_02_Apps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:43:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BST.cs",
               "DocumentMoniker": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\BST.cs",
               "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Tree\\BST\\BST.cs",
               "ToolTip": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\BST.cs",
               "RelativeToolTip": "Algorithm_2\\DataStructures\\Tree\\BST\\BST.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-05T14:59:50.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClassDiagram.cd",
               "DocumentMoniker": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\ClassDiagram.cd",
               "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Tree\\BST\\ClassDiagram.cd",
               "ToolTip": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\ClassDiagram.cd",
               "RelativeToolTip": "Algorithm_2\\DataStructures\\Tree\\BST\\ClassDiagram.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2026-11-05T13:49:26.269Z"
+              "WhenOpened": "2026-11-05T13:49:26.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\Node.cs",
               "RelativeDocumentMoniker": "Algorithm_2\\DataStructures\\Tree\\BST\\Node.cs",
               "ToolTip": "C:\\Users\\enes7\\Desktop\\C#\\Visual Studio\\Algorithm\\Algorithm_2\\DataStructures\\Tree\\BST\\Node.cs",
               "RelativeToolTip": "Algorithm_2\\DataStructures\\Tree\\BST\\Node.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T12:42:43.972Z"
+              "WhenOpened": "2026-11-05T12:42:43.972Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -7,5 +7,13 @@
       <FileName>Tree\BST\Node.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="DataStructures.Tree.BST.BST&lt;T&gt;">
+    <Position X="11.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAADAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Tree\BST\BST.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

@@ -13,6 +13,13 @@ public class BST<T> : IEnumerable<T>
     {
         
     }
+    public BST(IEnumerable<T> collection)
+    {
+        foreach (var item in collection)
+            Add(item);
+        
+        
+    }
 
     public IEnumerator<T> GetEnumerator()
     {
@@ -23,4 +30,42 @@ public class BST<T> : IEnumerable<T>
     {
         return GetEnumerator();
     }
+
+    public void Add(T value)
+    {
+        if (value == null) throw new ArgumentNullException();
+        var newNode = new Node<T>(value);
+        if(Root == null) 
+            Root = newNode;
+        else
+        {
+            var current = Root;
+            Node<T> parent;
+            while(true)
+            {
+                parent = current;
+                // Sol-alt ağaç
+                if(value.CompareTo(current.Value)<0)
+                {
+                    current = current.Left;
+                    if(current == null)
+                    {
+                        parent.Left = newNode;
+                        break;
+                    }
+                }
+                // Sağ-alt ağac
+                else
+                {
+                    current = current.Right;
+                    if (current == null)
+                    {
+                        parent.Right = newNode;
+                        break;
+                    }
+                }
+            }
+        }
+    }
 }
+
