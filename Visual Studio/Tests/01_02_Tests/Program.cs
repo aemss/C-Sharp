@@ -182,7 +182,6 @@ public class Solution7
 
 }
 
-
 public class Solution8
 {
     public string ReverseVowels(string s)
@@ -216,5 +215,13 @@ public class Solution8
         }
 
         return new string(chars);
+    }
+}
+
+public class Solution
+{
+    public void Merge(int[] nums1, int m, int[] nums2, int n)
+    {
+
     }
 }
