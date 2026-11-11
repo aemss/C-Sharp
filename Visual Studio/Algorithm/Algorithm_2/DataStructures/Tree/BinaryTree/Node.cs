@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataStructures.Tree.BST;
+namespace DataStructures.Tree.BinaryTree;
 
 public class Node<T>
 {
