@@ -3,16 +3,8 @@ using System.Collections.Generic;
 using System.Collections;
 using System.Text;
  
- // Answer 1
-/*
-string[] testDizisi = { "flower", "flow", "flight" };
 
-Solution solution = new Solution();
-
-string sonuc = solution.LongestCommonPrefix(testDizisi);
-Console.WriteLine("En uzun ortak önek: " + sonuc);
-
-public class Solution 
+public class Solution1
 {
     public string LongestCommonPrefix(string[] strs)
     {
@@ -37,12 +29,7 @@ public class Solution
     }
 }
 
-*/
-
-// Answer 2
-/*
-
-public class Solution {
+public class Solution2 {
     public ListNode MergeTwoLists(ListNode list1, ListNode list2) 
     {
         ListNode dummy = new ListNode(0);
@@ -77,11 +64,7 @@ public class Solution {
      }
 }
 
-*/
-
-// Answer 3
-/*
-public class Solution 
+public class Solution3 
 {
     public string RemoveOuterParentheses(string s) 
     {
@@ -112,10 +95,8 @@ public class Solution
         return sonuc.ToString();
     }
 }
-
-*/
-            
-public class Solution {
+   
+public class Solution4 {
     public int RemoveDuplicates(int[] nums) 
     {
         if(nums.Length== 0) return 0;
@@ -136,6 +117,26 @@ public class Solution {
 
 }
             
+public class Solution5
+{
+    int[] sayilar = [12,25,32,13,9,27];
+    int biggest;
 
+    public Solution5()
+    {
+        biggest = sayilar[0];
+     foreach(int s in sayilar)
+      {
+        if(s >biggest) 
+        {
+            biggest = s;
+        }
+      }
+    }   
+
+
+    
+
+}
 
 

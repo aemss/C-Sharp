@@ -1,0 +1,17 @@
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.exe
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.deps.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.runtimeconfig.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.runtimeconfig.dev.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\bin\Debug\net10.0\01_01_Byte.pdb
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.AssemblyInfoInputs.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.AssemblyInfo.cs
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.csproj.CoreCompileInputs.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.sourcelink.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\refint\01_01_Byte.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.pdb
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.genruntimeconfig.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\ref\01_01_Byte.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Algorithm\Algorithm_1\01_02_Byte\obj\Debug\net10.0\01_01_Byte.csproj.Up2Date

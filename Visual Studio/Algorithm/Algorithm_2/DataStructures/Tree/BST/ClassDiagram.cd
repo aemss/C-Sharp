@@ -1,19 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="DataStructures.Tree.BST.Node&lt;T&gt;">
-    <Position X="8.5" Y="2" Width="1.75" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACACgAAAAAAA=</HashCode>
-      <FileName>Tree\BST\Node.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="DataStructures.Tree.BST.BST&lt;T&gt;">
-    <Position X="11.75" Y="2" Width="2.25" />
+    <Position X="11.5" Y="2" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAAAAAADAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
       <FileName>Tree\BST\BST.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructures.Tree.BinaryTree.BinaryTree&lt;T&gt;">
+    <Position X="5.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACgACAAAAAAAABEAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tree\BinaryTree\BinaryTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructures.Tree.BinaryTree.Node&lt;T&gt;">
+    <Position X="8.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACACgAAAAAAA=</HashCode>
+      <FileName>Tree\BinaryTree\Node.cs</FileName>
+    </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

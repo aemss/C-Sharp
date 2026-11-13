@@ -16,6 +16,7 @@ class Program
             .ForEach(node => Console.Write($"{node,-3} "));
 
         Console.WriteLine();
+        /*
         // foreach (var item in list)
         // {
         //    Console.WriteLine(item);
@@ -30,6 +31,12 @@ class Program
 
         bt.PostOrder(BST.Root)
             .ForEach(node => Console.Write($"{node,-3} "));
+        */
+
+        bt.InOrderNonRecursiveTraversal(BST.Root)
+            .ForEach(node => Console.Write($"{node,-3} "));
+        
+        Console.WriteLine();
 
     }
 }
