@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01_01_Tests/01_01_Tests.csproj" Id="17e7475b-5768-46e3-aaf6-265bfd8a2996" />
   <Project Path="01_02_Tests/01_02_Tests.csproj" Id="fa54df2c-2ea6-482c-aaf8-ce3ee1fcb436" />
+  <Project Path="01_03_Tests/01_03_Tests.csproj" Id="22887815-2adb-4230-8bc4-c5db1fe32040" />
 </Solution>

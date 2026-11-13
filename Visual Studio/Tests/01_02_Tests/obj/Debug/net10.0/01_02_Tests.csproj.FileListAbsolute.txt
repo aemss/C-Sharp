@@ -1,0 +1,5 @@
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.AssemblyInfoInputs.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.AssemblyInfo.cs
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.csproj.CoreCompileInputs.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.sourcelink.json
