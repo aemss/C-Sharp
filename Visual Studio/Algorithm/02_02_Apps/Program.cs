@@ -22,9 +22,18 @@ class Program
             .ForEach(node => Console.Write($"{node,-3} "));
 
         Console.WriteLine();
+        Console.WriteLine("\n=== Level Order Traversal===\n");
 
+        bt.LevelOrderNonRecursiveTraversal(BST.Root)
+            .ForEach(node => Console.Write($"{node,-3} "));
+
+        Console.WriteLine();
+
+        Console.WriteLine($"Min: {BST.FindMin(BST.Root)}");
+        Console.WriteLine($"Max: {BST.FindMax(BST.Root)}");
     }
 }
+
 
 
 

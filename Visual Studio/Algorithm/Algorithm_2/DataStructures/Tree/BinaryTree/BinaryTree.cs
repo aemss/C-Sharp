@@ -117,6 +117,23 @@ public class BinaryTree<T> where T : IComparable
         }
         return list;
     }
+    public List<Node<T>> LevelOrderNonRecursiveTraversal(Node<T> root)
+    {
+        var list = new List<Node<T>>();
+        var Q = new DataStructures.Queue.Queue<Node<T>>();
+        Q.Enqueue(root);
+        while(Q.Count >0)
+        {
+            var temp = Q.Dequeue();
+            list.Add(temp);
+            if (temp.Left != null)
+                Q.Enqueue(temp.Left);
+            if(temp.Right != null)
+                Q.Enqueue(temp.Right);
+        }
+        return list;
+    }   
+
     public void ClearList() => list.Clear();
 }
 
