@@ -1,6 +1,7 @@
 ﻿using DataStructures.Tree.BinaryTree;
 using DataStructures.Tree.BST;
 using System;
+using System.Globalization;
 
 namespace Apps;
 
@@ -12,30 +13,14 @@ class Program
 
         var bt = new BinaryTree<int>();
 
-        bt.InOrder(BST.Root)
-            .ForEach(node => Console.Write($"{node,-3} "));
-
-        Console.WriteLine();
-        /*
-        // foreach (var item in list)
-        // {
-        //    Console.WriteLine(item);
-        // }
-        bt.ClearList();     
-
-        bt.PreOrder(BST.Root)
-            .ForEach(node => Console.Write($"{node,-3} "));
-
-        Console.WriteLine();
-        bt.ClearList();
-
         bt.PostOrder(BST.Root)
             .ForEach(node => Console.Write($"{node,-3} "));
-        */
 
-        bt.InOrderNonRecursiveTraversal(BST.Root)
+        Console.WriteLine();
+
+        bt.PostOrderNonRecursiveTraversal(BST.Root)
             .ForEach(node => Console.Write($"{node,-3} "));
-        
+
         Console.WriteLine();
 
     }

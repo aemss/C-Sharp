@@ -63,9 +63,24 @@ public class BinaryTree<T> where T : IComparable
         return list;
 
     }
-    public List<Node<T>> PreOrder(Node<T> root)
+    public List<Node<T>> PreOrderNonRecursiveTraversal(Node<T> root)
     {
-
+        var list = new List<Node<T>>();
+        var S = new DataStructures.Stack.Stack<Node<T>>();
+        if(root == null)
+            throw new Exception("This three is empty.");
+        S.Push(root);
+        while(!(S.Count==0))
+        {
+            var temp = S.Pop();
+            list.Add(temp);
+            if (temp.Right != null)
+                S.Push(temp.Right);
+            if (temp.Left != null)
+                S.Push(temp.Left);                 
+        }
+        return list;   
+        
     }
     public List<Node<T>> PostOrder(Node<T> root)
     {
@@ -74,6 +89,31 @@ public class BinaryTree<T> where T : IComparable
             PostOrder(root.Left);
             PostOrder(root.Right);
             list.Add(root);
+        }
+        return list;
+    }
+    public List<Node<T>> PostOrderNonRecursiveTraversal(Node<T> root)
+    {
+        var list = new List<Node<T>>();
+        var S = new DataStructures.Stack.Stack<Node<T>>();
+        if (root == null)
+            throw new Exception();
+        S.Push(root);
+
+        var S2 = new DataStructures.Stack.Stack<Node<T>>();
+
+        while (S.Count >0)
+        {
+            var current = S.Pop();
+            S2.Push(current);
+            if(current.Left !=null)
+                S.Push(current.Left);
+            if (current.Right != null)
+                S.Push(current.Right);
+        }
+        while(S2.Count >0)
+        {
+            list.Add(S2.Pop());
         }
         return list;
     }
