@@ -63,6 +63,10 @@ public class BinaryTree<T> where T : IComparable
         return list;
 
     }
+    public List<Node<T>> PreOrder(Node<T> root)
+    {
+
+    }
     public List<Node<T>> PostOrder(Node<T> root)
     {
         if(!(root == null ))
