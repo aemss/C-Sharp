@@ -31,6 +31,15 @@ class Program
 
         Console.WriteLine($"Min: {BST.FindMin(BST.Root)}");
         Console.WriteLine($"Max: {BST.FindMax(BST.Root)}");
+
+        var keyNode = BST.Find(BST.Root, 98);
+        if(keyNode != null)
+        {
+            Console.WriteLine($"{keyNode.Value} - Left: " +
+                $"{keyNode.Left.Value} -" +
+                $" Right: {keyNode.Right}");
+        }
+
     }
 }
 

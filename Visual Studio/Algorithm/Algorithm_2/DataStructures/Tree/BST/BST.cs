@@ -85,5 +85,23 @@ public class BST<T> : IEnumerable<T>
         return current;
     }
 
+    public Node<T> Find(Node<T> root, T key)
+    {
+        var current = root;
+        while(key.CompareTo(current.Value)!= 0)
+        {
+            if (key.CompareTo(current.Value) < 0)
+                current = current.Left;
+            else
+                current = current.Right;
+
+            if (current == null)
+                //throw new Exception("Could not found!");
+                return default(Node<T>);
+        }
+        return current;
+            
+    }
+
 }
 
