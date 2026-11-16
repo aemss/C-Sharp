@@ -39,7 +39,6 @@ class Program
                 $"{keyNode.Left.Value} -" +
                 $" Right: {keyNode.Right}");
         }
-
     }
 }
 
