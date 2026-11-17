@@ -102,6 +102,36 @@ public class BST<T> : IEnumerable<T>
         return current;
             
     }
+    public Node<T> Remove(Node<T> root, T key)
+    {
+        if (root == null)
+            return root;
+
+        if(key.CompareTo(root.Value) < 0) 
+            root.Left = Remove(root.Left, key);
+        else if (key.CompareTo(root.Value) >0)
+        {
+            root.Right = Remove(root.Right, key);
+        }
+        else
+        {
+            // tek cocuk ya da cocuksuz
+            if(root.Left == null)
+            {
+                return root.Right;
+            }
+            else if (root.Right == null)
+            {
+                return root.Right;
+            }
+
+            // ikic cocuk
+            root.Value = FindMin(root.Right).Value;
+            root.Right = Remove(root.Right, root.Value);
+        }
+        return root;
+    }
+
 
 }
 
