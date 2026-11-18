@@ -7,7 +7,7 @@ namespace Apps;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Mains(string[] args)
     {
         var BST = new BST<int>(new int[] { 60,40,70,20,45,65,85});
 
@@ -53,8 +53,27 @@ class Program
     }
 }
 
+class Program2
+{
+    static void Main(string[] args)
+    {
+        var bst = new DataStructures
+            .Tree
+            .BST
+            .BST<byte>(new byte[] { 60,40,70 });
 
+        var list = new BinaryTree<byte>().InOrder(bst.Root);
 
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
 
+        Console.WriteLine($"Min: {bst.FindMin(bst.Root)}");
+        Console.WriteLine($"Max: {bst.FindMax(bst.Root)}");
+        Console.WriteLine($"Depth: {BinaryTree<byte>.MaxDepth(bst.Root)}");
+            
+    }
+}
 
 
