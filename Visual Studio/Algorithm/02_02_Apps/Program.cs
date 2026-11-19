@@ -57,6 +57,7 @@ class Program2
 {
     static void Main(string[] args)
     {
+        /*
         var bst = new DataStructures
             .Tree
             .BST
@@ -72,7 +73,22 @@ class Program2
         Console.WriteLine($"Min: {bst.FindMin(bst.Root)}");
         Console.WriteLine($"Max: {bst.FindMax(bst.Root)}");
         Console.WriteLine($"Depth: {BinaryTree<byte>.MaxDepth(bst.Root)}");
-            
+          */
+        var bt = new BinaryTree<char>();
+        bt.Root = new Node<char>('F');
+        bt.Root.Left = new Node<char>('A');
+        bt.Root.Right = new Node<char>('T');
+        bt.Root.Left.Left = new Node<char>('D');
+
+        var list = bt.LevelOrderNonRecursiveTraversal(bt.Root);
+        foreach (var item in list)
+        {
+            Console.WriteLine($"{item.Value} ");
+        }
+
+        Console.WriteLine($"Deepest Node:{bt.DeepestNode(bt.Root).Value}");
+        Console.WriteLine($"Deepest Node:{bt.DeepestNode()}");
+        Console.WriteLine($"Max Depth:{BinaryTree<char>.MaxDepth(bt.Root)}");
     }
 }
 

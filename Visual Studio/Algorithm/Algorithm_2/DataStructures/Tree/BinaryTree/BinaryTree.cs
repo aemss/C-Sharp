@@ -6,6 +6,7 @@ namespace DataStructures.Tree.BinaryTree;
 
 public class BinaryTree<T> where T : IComparable
 {
+    public Node<T> Root { get; set; }
     public List<Node<T>> list { get; private set;}
     public BinaryTree()
     {
@@ -145,6 +146,30 @@ public class BinaryTree<T> where T : IComparable
             leftDepth + 1 :
             rightDepth + 1;
     }   
+    public Node<T> DeepestNode(Node<T> root)
+    {
+        Node<T> temp = null;
+        if (root == null) throw new ArgumentNullException();
+
+        var q = new DataStructures.Queue.Queue<Node<T>>();
+        .
+        q.Enqueue(root);
+        while(q.Count>0)
+        {
+            temp = q.Dequeue();
+            if (temp.Left != null)
+                q.Enqueue(temp.Left);
+            if(temp.Right != null) q.Enqueue(temp.Right);
+        }
+        return temp;   
+
+                
+    }
+    public Node<T> DeepestNode()
+    {
+        var list = LevelOrderNonRecursiveTraversal(Root);
+        return list[list.Count - 1];
+    }
 
 }
 
