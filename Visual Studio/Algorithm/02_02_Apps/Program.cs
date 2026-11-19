@@ -91,5 +91,3 @@ class Program2
         Console.WriteLine($"Max Depth:{BinaryTree<char>.MaxDepth(bt.Root)}");
     }
 }
-
-
