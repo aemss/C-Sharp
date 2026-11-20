@@ -104,6 +104,5 @@ class Program
 
         Console.WriteLine($"Number of fll nodes :" +
             $"{BinaryTree<int>.NumberOFHalfNodes(bst.Root)}");
-
     }
 }
