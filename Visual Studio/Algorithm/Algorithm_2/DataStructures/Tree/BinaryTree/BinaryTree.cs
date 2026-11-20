@@ -1,6 +1,8 @@
-﻿using System;
+﻿using DataStructures.Queue;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace DataStructures.Tree.BinaryTree;
 
@@ -145,14 +147,16 @@ public class BinaryTree<T> where T : IComparable
         return (leftDepth > rightDepth) ?
             leftDepth + 1 :
             rightDepth + 1;
-    }   
+    }
     public Node<T> DeepestNode(Node<T> root)
     {
         Node<T> temp = null;
         if (root == null) throw new ArgumentNullException();
 
-        var q = new DataStructures.Queue.Queue<Node<T>>();
-        .
+        var q = new DataStructures.Queue.Queue<Node<T>>(); 
+        
+        
+        
         q.Enqueue(root);
         while(q.Count>0)
         {
@@ -169,6 +173,35 @@ public class BinaryTree<T> where T : IComparable
     {
         var list = LevelOrderNonRecursiveTraversal(Root);
         return list[list.Count - 1];
+    }
+    
+    public int NumberOFleafs(Node<T> root)
+    {
+        /*
+        int count = 0;
+        if (root == null)
+            return count;
+        var q = new DataStructures.Queue.Queue<Node<T>>();
+        q.Enqueue(root);
+        while(q.Count >0)
+        {
+            
+            var temp = q.Dequeue();
+            if (temp.Left == null && temp.Right == null)
+                count++;
+            if (temp.Left != null)
+                q.Enqueue(temp.Left);
+            if (temp.Right != null)
+                q.Enqueue(temp.Right);
+        }
+        return count;
+        */
+
+        return new BinaryTree<T>()
+            .LevelOrderNonRecursiveTraversal(root)
+            .Where(x => x.Left == null && x.Right == null)
+            .ToList()
+            .Count;
     }
 
 }
