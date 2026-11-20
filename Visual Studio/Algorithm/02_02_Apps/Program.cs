@@ -91,10 +91,19 @@ class Program
 
         var bst = new BST<int>(new int[] { 23, 16, 45, 3, 22, 37, 99 });
         var bt = new BinaryTree<int>();
-
+        bst.Remove(bst.Root,3);
+        bst.Remove(bst.Root, 99);
 
 
         Console.WriteLine($"Number of leafs: " +
             $"{bt.NumberOFleafs(bst.Root)}");
+
+        Console.WriteLine($"Number of fll nodes :" +
+            $"{BinaryTree<int>.NumberOfFullNodes(bst.Root)}");
+
+
+        Console.WriteLine($"Number of fll nodes :" +
+            $"{BinaryTree<int>.NumberOFHalfNodes(bst.Root)}");
+
     }
 }

@@ -174,10 +174,10 @@ public class BinaryTree<T> where T : IComparable
         var list = LevelOrderNonRecursiveTraversal(Root);
         return list[list.Count - 1];
     }
-    
+
     public int NumberOFleafs(Node<T> root)
     {
-        /*
+        
         int count = 0;
         if (root == null)
             return count;
@@ -195,14 +195,27 @@ public class BinaryTree<T> where T : IComparable
                 q.Enqueue(temp.Right);
         }
         return count;
-        */
-
+        /*
         return new BinaryTree<T>()
             .LevelOrderNonRecursiveTraversal(root)
             .Where(x => x.Left == null && x.Right == null)
             .ToList()
             .Count;
+        */ 
     }
+    public static int NumberOfFullNodes(Node<T> root) =>
+        new BinaryTree<T>().LevelOrderNonRecursiveTraversal(root)
+        .Where(node => node.Left != null && node.Right != null)
+        .ToList()
+        .Count;
+    public static int NumberOFHalfNodes(Node<T> root) =>
+        new BinaryTree<T>().LevelOrderNonRecursiveTraversal(root)
+        .Where(node => (node.Left != null && node.Right == null) ||
+        (node.Left == null && node.Right != null))
+        .ToList()
+        .Count;
+
+
 
 }
 
