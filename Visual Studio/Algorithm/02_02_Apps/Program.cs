@@ -82,8 +82,6 @@ Console.WriteLine($"Deepest Node:{bt.DeepestNode()}");
 Console.WriteLine($"Max Depth:{BinaryTree<char>.MaxDepth(bt.Root)}");
 
 */
-
-
 class Program
 {
     static void Main(string[] args)
