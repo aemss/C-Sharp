@@ -24,7 +24,7 @@ public class BST<T> : IEnumerable<T>
 
     public IEnumerator<T> GetEnumerator()
     {
-        throw new NotImplementedException();
+        return new BSTEnumerator<T>(Root);
     }
 
     IEnumerator IEnumerable.GetEnumerator()
