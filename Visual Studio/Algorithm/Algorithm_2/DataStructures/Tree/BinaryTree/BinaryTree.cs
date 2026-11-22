@@ -241,7 +241,7 @@ public class BinaryTree<T> where T : IComparable
     private void PrintArray(T[] path, int len)
     {
         for(int i = 0; i < len; i++)
-            Console.WriteLine($"{path[i]}");
+            Console.Write($"{path[i],-1} ");
         Console.WriteLine();
         
 

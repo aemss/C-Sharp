@@ -103,6 +103,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        var bst = new BST<int>(new int[] { 23, 16, 45, 3, 22, 37, 99,100,120,130 });
+        bst.Remove(bst.Root, 22);
+        new BinaryTree<int>().PrintPaths(bst.Root);
+
+
 
     }
 }
