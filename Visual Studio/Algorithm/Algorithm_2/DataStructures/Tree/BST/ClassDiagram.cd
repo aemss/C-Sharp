@@ -18,9 +18,17 @@
   <Class Name="DataStructures.Tree.BinaryTree.BinaryTree&lt;T&gt;">
     <Position X="5.5" Y="1.5" Width="2.5" />
     <TypeIdentifier>
-      <HashCode>AAAACgACEAgAACAAhEBAACAEAAAAAAAAAAAABAAAAAA=</HashCode>
+      <HashCode>AAAACiACEAgAACAQhEBAAKAEAAAAAAAAAAAABCAAAAA=</HashCode>
       <FileName>Tree\BinaryTree\BinaryTree.cs</FileName>
     </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructures.Tree.BST.BSTEnumerator&lt;T&gt;">
+    <Position X="2.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAABAAAAACAAAAAAAAAAAAAoAAAAAAAAAQ=</HashCode>
+      <FileName>Tree\BST\BSTEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

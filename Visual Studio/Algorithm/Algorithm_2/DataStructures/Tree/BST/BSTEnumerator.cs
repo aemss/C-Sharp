@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace DataStructures.Tree.BST;
 
-internal class BSTEnumerator<T> : IEnumerator<T> where T : IComparable<T>
+internal class BSTEnumerator<T> : IEnumerator<T> where T : IComparable
 {
     private List<Node<T>> list;
     private int indexer = -1;
@@ -12,22 +12,23 @@ internal class BSTEnumerator<T> : IEnumerator<T> where T : IComparable<T>
     {
         list = new BinaryTree<T>().LevelOrderNonRecursiveTraversal(root);
     }
-    public T Current => throw new NotImplementedException();
+    public T Current => list[indexer].Value;
 
     object IEnumerator.Current => Current;
 
     public void Dispose()
     {
-        throw new NotImplementedException();
+        list = null;
     }
 
     public bool MoveNext()
     {
-        throw new NotImplementedException();
+        indexer++;
+        return indexer < list.Count ? true : false;
     }
 
     public void Reset()
     {
-        throw new NotImplementedException();
+        indexer = -1;
     }
 }

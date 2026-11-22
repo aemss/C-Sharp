@@ -6,8 +6,7 @@ using System.Text;
 
 namespace DataStructures.Tree.BST;
 
-public class BST<T> : IEnumerable<T>
-    where T : IComparable<T>
+public class BST<T> : IEnumerable<T> where T : IComparable
 {
     public Node<T> Root { get; set; }
     public BST()
