@@ -215,6 +215,38 @@ public class BinaryTree<T> where T : IComparable
         .ToList()
         .Count;
 
+    public void PrintPaths(Node<T> root)
+    {
+        var path = new T[256];
+        PrintPaths(root, path, 0);
+    }
+
+    private void PrintPaths(Node<T> root, T[] path, int pathLen)
+    {
+        if (root == null) return;
+        path[pathLen] = root.Value;
+        pathLen++;
+
+        if(root.Left == null && root.Right == null) // yaprak mı ?
+        {
+            PrintArray(path, pathLen);
+        }
+        else
+        {
+            PrintPaths(root.Left, path, pathLen);
+            PrintPaths(root.Right, path, pathLen);
+        }
+    }
+
+    private void PrintArray(T[] path, int len)
+    {
+        for(int i = 0; i < len; i++)
+            Console.WriteLine($"{path[i]}");
+        Console.WriteLine();
+        
+
+
+    }
 
 
 }

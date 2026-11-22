@@ -82,11 +82,7 @@ Console.WriteLine($"Deepest Node:{bt.DeepestNode()}");
 Console.WriteLine($"Max Depth:{BinaryTree<char>.MaxDepth(bt.Root)}");
 
 */
-class Program
-{
-    static void Main(string[] args)
-    {
-
+/*
         var bst = new BST<int>(new int[] { 23, 16, 45, 3, 22, 37, 99 });
         var bt = new BinaryTree<int>();
         bst.Remove(bst.Root,3);
@@ -102,5 +98,11 @@ class Program
 
         Console.WriteLine($"Number of fll nodes :" +
             $"{BinaryTree<int>.NumberOFHalfNodes(bst.Root)}");
+        */
+class Program
+{
+    static void Main(string[] args)
+    {
+
     }
 }
