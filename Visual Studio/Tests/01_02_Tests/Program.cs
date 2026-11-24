@@ -1,7 +1,17 @@
-﻿using System.Reflection.PortableExecutable;
+﻿using System.Globalization;
+using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 using System.Text;
 
+Solution9 Cozum = new Solution9();
+
+int[] poz = { 1, 4, 6, 8 };
+
+int target = 5;
+
+int[] a = Cozum.TwoSum(poz,target);
+
+Console.WriteLine(a);
 // Answer 1
 public class Solution1
 {
@@ -218,10 +228,19 @@ public class Solution8
     }
 }
 
-public class Solution
+public class Solution9
 {
     public int[] TwoSum(int[] nums, int target)
     {
-
+        for (int i = 0; i < nums.Length; i++) 
+        {
+            for (int j = i+1; j < nums.Length; j++)
+            {
+                if (nums[i] + nums[j] == target)
+                    return new int[] { i, j };
+            }
+        }
+        return new int[] { } ;
     }
 }
+

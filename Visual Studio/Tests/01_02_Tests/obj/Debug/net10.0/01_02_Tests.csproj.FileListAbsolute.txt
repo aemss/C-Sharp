@@ -3,3 +3,15 @@ C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_0
 C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.AssemblyInfo.cs
 C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.csproj.CoreCompileInputs.cache
 C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.sourcelink.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.exe
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.deps.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.runtimeconfig.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.runtimeconfig.dev.json
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\bin\Debug\net10.0\01_02_Tests.pdb
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\refint\01_02_Tests.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.pdb
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Tests.genruntimeconfig.cache
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\ref\01_02_Tests.dll
+C:\Users\enes7\Desktop\C#\Visual Studio\Tests\01_02_Tests\obj\Debug\net10.0\01_02_Te.F14EDEBF.Up2Date
