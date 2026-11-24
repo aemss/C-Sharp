@@ -3,6 +3,9 @@ using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 using System.Text;
 
+/*
+// Answer 9 
+
 Solution9 Cozum = new Solution9();
 
 int[] poz = { 1, 4, 6, 8 };
@@ -11,7 +14,9 @@ int target = 5;
 
 int[] a = Cozum.TwoSum(poz,target);
 
-Console.WriteLine(a);
+Console.WriteLine($"{a[0]}, {a[1]}");
+*/
+
 // Answer 1
 public class Solution1
 {
@@ -46,9 +51,8 @@ public class Solution1
         return new string(charArray);
     }
 }
-
-
 // Answer 2 
+
 public class Solution2
 {
     public int MySqrt(int x)
@@ -170,6 +174,7 @@ public class Solution6
     }
 }
 
+// Answer 7
 public class Solution7
 {
     public bool CanPlaceFlowers(int[] flowerbed, int n)
@@ -192,6 +197,7 @@ public class Solution7
 
 }
 
+// Answer 8
 public class Solution8
 {
     public string ReverseVowels(string s)
@@ -228,6 +234,7 @@ public class Solution8
     }
 }
 
+// Answer 9
 public class Solution9
 {
     public int[] TwoSum(int[] nums, int target)
