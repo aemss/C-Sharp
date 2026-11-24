@@ -220,7 +220,7 @@ public class Solution8
 
 public class Solution
 {
-    public void Merge(int[] nums1, int m, int[] nums2, int n)
+    public int[] TwoSum(int[] nums, int target)
     {
 
     }
