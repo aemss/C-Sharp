@@ -251,3 +251,44 @@ public class Solution9
     }
 }
 
+public class Solution10
+{
+    public bool CheckRecord(string s)
+    {
+        char Absent = 'A';
+        char Late = 'L';
+        char Present = 'P';
+
+        int absentCount = 0;
+        int lateStreak = 0;
+
+
+        for (int i = 0; i < s.Length; i++)
+        {
+            if (s[i] == 'A')
+            {
+                absentCount++;
+                if (absentCount >= 2)
+                    return false;
+            }
+            if (s[i] == 'L')
+            {
+                lateStreak++;
+                if (lateStreak >= 3)
+                    return false;
+
+            }
+            else
+                lateStreak = 0;
+        }
+        return true;
+    }
+
+    public bool CheckRecord2(string s)
+    {
+        if (s.Count(c => c == 'A') >= 2  || s.Contains("LLL"))
+            return false;
+       return true; 
+    }
+}
+
