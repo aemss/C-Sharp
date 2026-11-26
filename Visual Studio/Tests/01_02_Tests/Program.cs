@@ -3,24 +3,8 @@ using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 using System.Text;
 
-/*
-// Answer 9 
-
-Solution9 Cozum = new Solution9();
-
-int[] poz = { 1, 4, 6, 8 };
-
-int target = 5;
-
-int[] a = Cozum.TwoSum(poz,target);
-
-Console.WriteLine($"{a[0]}, {a[1]}");
-*/
-
 // Answer 1
-public class Solution1
-{
-    public string AddBinary(string a, string b)
+string AddBinary(string a, string b)
     {
         int i = a.Length - 1;
         int j = b.Length - 1;
@@ -50,12 +34,9 @@ public class Solution1
 
         return new string(charArray);
     }
-}
-// Answer 2 
 
-public class Solution2
-{
-    public int MySqrt(int x)
+// Answer 2 
+int MySqrt(int x)
     {
         int left = 1;
         int right = x;
@@ -74,12 +55,9 @@ public class Solution2
         }
         return right;   
     }
-}
 
 // Answer 3 
-public class Solution3
-{
-    public int ClimbStairs(int n)
+int ClimbStairs(int n)
     {
         
         if (n <= 2) return n;
@@ -96,12 +74,9 @@ public class Solution3
 
         return onceki1;
     }
-}
 
 // Answer 4
-public class Solution4
-{
-    public string MergeAlternately(string word1, string word2)
+string MergeAlternately(string word1, string word2)
     {
         
         StringBuilder sonuc = new StringBuilder();
@@ -121,12 +96,9 @@ public class Solution4
 
         return sonuc.ToString();
     }
-}
 
 // Answer 5 
-public class Solution5
-{
-    public string GcdOfStrings(string str1, string str2)
+string GcdOfStrings(string str1, string str2)
     {
         int ebobuzunlugu = 0;
         if (str1 + str2 != str2 + str1)
@@ -141,7 +113,7 @@ public class Solution5
 
 
     }
-    public int Ebob(int a,int b)
+int Ebob(int a,int b)
     {
         while(b != 0)
         {
@@ -151,12 +123,10 @@ public class Solution5
         }
         return a;
     }
-}
 
 // Answer 6
-public class Solution6
-{
-    public IList<bool> KidsWithCandies(int[] candies, int extraCandies)
+
+IList<bool> KidsWithCandies(int[] candies, int extraCandies)
     {
         int a = candies.Max();
 
@@ -172,12 +142,10 @@ public class Solution6
 
         return sonucListesi;
     }
-}
 
 // Answer 7
-public class Solution7
-{
-    public bool CanPlaceFlowers(int[] flowerbed, int n)
+
+bool CanPlaceFlowers(int[] flowerbed, int n)
     {
         for (int i = 0; i < flowerbed.Length; i++)
         {
@@ -193,14 +161,8 @@ public class Solution7
 
     }
 
-    
-
-}
-
 // Answer 8
-public class Solution8
-{
-    public string ReverseVowels(string s)
+string ReverseVowels(string s)
     {
         int left = 0;
         int right = s.Length - 1;
@@ -232,12 +194,9 @@ public class Solution8
 
         return new string(chars);
     }
-}
 
 // Answer 9
-public class Solution9
-{
-    public int[] TwoSum(int[] nums, int target)
+int[] TwoSum(int[] nums, int target)
     {
         for (int i = 0; i < nums.Length; i++) 
         {
@@ -249,11 +208,9 @@ public class Solution9
         }
         return new int[] { } ;
     }
-}
 
-public class Solution10
-{
-    public bool CheckRecord(string s)
+// Answer 10
+    bool CheckRecord(string s)
     {
         char Absent = 'A';
         char Late = 'L';
@@ -284,11 +241,9 @@ public class Solution10
         return true;
     }
 
-    public bool CheckRecord2(string s)
+    bool CheckRecord2(string s)
     {
         if (s.Count(c => c == 'A') >= 2  || s.Contains("LLL"))
             return false;
        return true; 
     }
-}
-
