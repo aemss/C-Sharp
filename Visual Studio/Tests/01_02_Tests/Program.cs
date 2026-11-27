@@ -1,5 +1,7 @@
-﻿using System.Globalization;
+﻿using System.Diagnostics.Tracing;
+using System.Globalization;
 using System.Reflection.PortableExecutable;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -210,7 +212,8 @@ int[] TwoSum(int[] nums, int target)
     }
 
 // Answer 10
-    bool CheckRecord(string s)
+
+bool CheckRecord(string s)
     {
         char Absent = 'A';
         char Late = 'L';
@@ -240,10 +243,31 @@ int[] TwoSum(int[] nums, int target)
         }
         return true;
     }
-
-    bool CheckRecord2(string s)
+bool CheckRecord2(string s)
     {
         if (s.Count(c => c == 'A') >= 2  || s.Contains("LLL"))
             return false;
        return true; 
     }
+
+// Answer 11
+bool IsPalindrome(int x)
+{
+    if (x < 0) return false;
+
+    string s = x.ToString();
+
+    string Reverse = new string(s.Reverse().ToArray());
+
+    return s == Reverse;
+}
+
+static string ToCamelCase(string str)
+{
+    string[] kelimeler = str.Split('-', '_');
+    
+    for (int i = 1; i < kelimeler.Length; i++) 
+        kelimeler[i] = char.ToUpper(kelimeler[i][0]) + kelimeler[i].Substring(1);
+
+    return string.Join("", kelimeler);
+}
